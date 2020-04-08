@@ -37,6 +37,9 @@ def run():
     # return run
     return render_template('run.html',run=run,params=params)
 
+@app.route("/links")
+def links():
+    return render_template("links.html")
 
 app.config['DEBUG'] = True
 
