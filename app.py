@@ -12,7 +12,7 @@ api.add_resource(Scenario,'/scenario/<string:run_name>')
 model = pysd.read_vensim('sd/community corona 8.mdl')
 import numpy as np
 config = {
-    'return_columns':['TIME','Susceptible','Infected','Deaths','Recovered'],
+    'return_columns':['TIME','Susceptible','Exposed','Infected','Deaths','Recovered'],
     'return_timestamps':np.arange(0, 300, 2).tolist()
 }
 
