@@ -4,35 +4,37 @@
     
 
 <form action="/run" method="get">
-    <div class="container-fluid" id="controllers">
-        <div class="row justify-content-md-around">
-            <div class="col col-lg-4 text-center">
-                <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
-                <br>
-                <strong><output id="BRROut">{{params['Behavioral Risk Reduction']}}</output></strong>
-                <br>
-                0
-                <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value" onchange="submit()">
-                1
-            </div>
-            <div class="col col-lg-4 text-center">
-                <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
-                <br>
-                <strong><output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output></strong>
-                <br>
-                0
-                <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value" onchange="submit()">
-                1
+    <div id="controllers">
+        <div class="container"></div>
+            <div class="row justify-content-center">
+                <div class="col-sm text-center">
+                    <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
+                    <br>
+                    <strong><output id="BRROut">{{params['Behavioral Risk Reduction']}}</output></strong>
+                    <br>
+                    0
+                    <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value" onchange="submit()">
+                    1
+                </div>
+                <div class="col-sm text-center">
+                    <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
+                    <br>
+                    <strong><output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output></strong>
+                    <br>
+                    0
+                    <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value" onchange="submit()">
+                    1
+                </div>
             </div>
         </div>
     </div>
 </form>
 
-
+<hr>
 <div class="container-fluid"></div>
-    <div class="chartsDiv row d-flex justify-content-center">
-        <div id='infDth' class="chartFrame col col-lg-6"></div>
-        <div id='stkChrt' class="chartFrame col col-lg-6"></div>
+    <div class="chartsDiv row">
+        <div id='infDth' class="chartFrame col-md"></div>
+        <div id='stkChrt' class="chartFrame col-md"></div>
     </div>
 </div>
 

@@ -14,7 +14,8 @@ class InfDthPlot{
                 title: {
                     text: 'Cases [people]',
                 }
-            }
+            },
+            // width: "80%"
         };
     }
 
@@ -56,7 +57,8 @@ class StackPlot{
                 title: {
                     text: 'Cases [people]',
                 }
-            }
+            },
+            // width: "80%"
         };
     }
 

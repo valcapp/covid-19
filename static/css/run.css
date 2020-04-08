@@ -1,13 +1,17 @@
-#controllers{
-    padding: 32px 16px;
+
+#mainDiv{
     margin-top: 56px;
-    background-color: #e9ecef;
 }
 
+#controllers{
+    width:100%;
+    padding: 32px 16px;
+    /* background-color: #e9ecef; */
+}
 
 .chartFrame{
-    min-height:400px;
-    /* min-width: 40%; */
+    min-height:350px;
+    min-width: 280px;
 }
 
 footer{
