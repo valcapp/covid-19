@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+pysd
+# Flask-JWT
+# Flask-SQLAlchemy
+# uwsgi
+# psycopg2

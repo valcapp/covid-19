@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+    <div id='myDiv'></div>
+    <script type="text/javascript">
+        var run = JSON.parse({{run|tojson}});
+    </script>
+    <script src="{{ url_for('static', filename='js/chart.js') }}"></script>
+
+    <div class="container">
+        <div class="jumbotron">
+            <form action="/run" method="get">
+                <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
+                <output id="BRROut">{{params['Behavioral Risk Reduction']}}</output><br>
+                0
+                <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value">
+                1
+                <br><br>
+                <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
+                <output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output> <br>
+                0
+                <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value">
+                1
+                <br><br>
+                <input type="submit" value="Run Again" class="btn btn-primary btn-md">
+            </form>
+        </div>
+    </div>
+{% endblock %}
