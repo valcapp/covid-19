@@ -37,16 +37,11 @@ def run():
     # return run
     return render_template('run.html',run=run,params=params)
 
-@app.route("/run/normative")
-def runnormative():
-    # new_config = config.update(request.json)
-    config['params']={'Behavioral Risk Reduction':1,'Potential Isolation Effectiveness':1}
-    run = model.run(**config).to_json()
-    # return run
-    return render_template('run.html',run=run)
-
 
 app.config['DEBUG'] = True
+
 if __name__ == "__main__":
     if app.config['DEBUG']:
         app.run(debug=True,port=5000)
+    else:
+        app.run(port=5000)
