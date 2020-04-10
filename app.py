@@ -34,8 +34,11 @@ def run():
     params.update(new_params)
     config.update({'params':params})
     run = model.run(**config).to_json()
+    selected_time = request.args.get('selectedTime')
+    if not selected_time:
+        selected_time = 40
     # return run
-    return render_template('run.html',run=run,params=params)
+    return render_template('run.html',run=run,params=params,selected_time=selected_time)
 
 @app.route("/links")
 def links():

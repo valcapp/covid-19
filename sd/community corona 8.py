@@ -743,16 +743,14 @@ def time_step():
 
 
 _smooth_functionsstep__datatime_potential_isolation_effectiveness_import_time_isolation_reaction_time_functionsstep__datatime_potential_isolation_effectiveness_import_time_3 = functions.Smooth(
-    lambda: functions.step(__data['time'], potential_isolation_effectiveness(), import_time()),
-    lambda: isolation_reaction_time(),
-    lambda: functions.step(__data['time'], potential_isolation_effectiveness(), import_time()),
-    lambda: 3)
+    lambda: functions.step(__data['time'], potential_isolation_effectiveness(), import_time(
+    )), lambda: isolation_reaction_time(), lambda: functions.step(
+        __data['time'], potential_isolation_effectiveness(), import_time()), lambda: 3)
 
 _smooth_1functionsstep__datatime_behavioral_risk_reduction_import_time_behavior_reaction_time_1functionsstep__datatime_behavioral_risk_reduction_import_time_3 = functions.Smooth(
-    lambda: 1 - functions.step(__data['time'], behavioral_risk_reduction(), import_time()),
-    lambda: behavior_reaction_time(),
-    lambda: 1 - functions.step(__data['time'], behavioral_risk_reduction(), import_time()),
-    lambda: 3)
+    lambda: 1 - functions.step(__data['time'], behavioral_risk_reduction(), import_time()), lambda:
+    behavior_reaction_time(), lambda: 1 - functions.step(__data['time'], behavioral_risk_reduction(
+    ), import_time()), lambda: 3)
 
 _integ_deaths = functions.Integ(lambda: dying(), lambda: 0)
 

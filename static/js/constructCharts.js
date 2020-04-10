@@ -1,5 +1,5 @@
 
-class InfDthPlot{
+class InfDthChartClass{
     constructor(){
         this.layout = {
             title: {
@@ -15,7 +15,6 @@ class InfDthPlot{
                     text: 'Cases [people]',
                 }
             },
-            // width: "80%"
         };
     }
 
@@ -37,12 +36,12 @@ class InfDthPlot{
     }
 
     plot(){
-        Plotly.newPlot('infDth', this.data, this.layout);
+        Plotly.newPlot('infDthChart', this.data, this.layout);
     }
 }
 
 
-class StackPlot{
+class StackChartClass{
     constructor(){
         this.layout = {
             title: {
@@ -103,13 +102,57 @@ class StackPlot{
     }
 
     plot(){
-        Plotly.newPlot('stkChrt', this.data, this.layout);
+        Plotly.newPlot('stackChart', this.data, this.layout);
     }
 }
 
 
-var infDthChart = new InfDthPlot();
-var stkChart = new StackPlot();
+class SankChartClass{
 
+    constructor(){
+        this.layout = {
+            title: "Flow of cases",
+            font: {
+                size: 10
+            }
+        };
+        this.data = {
+            type: "sankey",
+            orientation: "h",
+            node: {
+                pad: 15,
+                thickness: 30,
+                line: {
+                    color: "black",
+                    width: 0.5
+                    },
+                label: ["Total Population", "Susceptible", "Exposed", "Infected", "Recovered", "Deaths"],
+                color: ["LightCyan", "RoyalBlue", "MediumPurple", "DarkOrange", "ForestGreen", "FireBrick"]
+            },
+            link: {
+                source: [0,0,0,0,0],
+                target: [1,2,3,4,5],
+                value: [100000,0,0,0,0]
+            }
+        };
+    }
+
+    updateData(flows){
+        this.data.link.value = flows;
+        this.plot();
+    }
+
+    plot(){
+        Plotly.react('sankChart', [this.data], this.layout);
+    }
+
+}
+
+
+var infDthChart = new InfDthChartClass();
+var stackChart = new StackChartClass();
+var sankChart = new SankChartClass();
+
+ 
 
 
