@@ -1,6 +1,6 @@
 
-#mainDiv{
-    margin-top: 56px;
+#baseDiv{
+    margin-top: 100px;
 }
 
 #controllers{
@@ -16,6 +16,28 @@
 
 #timeSelector{
     width: 60%;
+}
+
+#runNameHidden{
+    display:none;
+}
+
+#runName{
+    border:solid lightgrey 1px;
+    border-radius:5px;
+    margin-right:10px;
+}
+#runName:focus{
+    outline: none;
+    border:solid mediumturquoise 1px;
+    border-radius:5px;
+}
+#runName::placeholder{
+    color:lightgray;
+}
+
+.hidden{
+    display:none;
 }
 
 footer{

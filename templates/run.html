@@ -1,66 +1,92 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    
 
-<form action="/run" method="get">
+<div class="container"><h1>Run the model</h1></div>
 
-<div id="controllers">
-    <div class="container"></div>
-        <div class="row justify-content-center">
-            <div class="col-sm text-center">
-                <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
-                <br>
-                <strong><output id="BRROut">{{params['Behavioral Risk Reduction']}}</output></strong>
-                <br>
-                0
-                <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value" onchange="submit()">
-                1
-            </div>
-            <div class="col-sm text-center">
-                <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
-                <br>
-                <strong><output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output></strong>
-                <br>
-                0
-                <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value" onchange="submit()">
-                1
+<form action="/run" method="get" id="runConfigForm">
+
+    <div id="controllers">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm text-center">
+                    <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
+                    <br>
+                    <strong><output id="BRROut">{{params['Behavioral Risk Reduction']}}</output></strong>
+                    <br>
+                    0
+                    <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value; BRRSave.value = BRRIn.value" onchange="submit()">
+                    1
+                </div>
+                <div class="col-sm text-center">
+                    <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
+                    <br>
+                    <strong><output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output></strong>
+                    <br>
+                    0
+                    <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value" onchange="submit()">
+                    1
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="container"><hr></div>
+    <div class="container"><hr></div>
 
-<div class="container-fluid"></div>
-    <div class="chartsDiv row">
-        <div id='infDthChart' class="chartFrame col-md"></div>
-        <div id='stackChart' class="chartFrame col-md"></div>
-    </div>
+    <div class="container-fluid">
+        <div class="chartsDiv row">
+            <div id='infDthChart' class="chartFrame col-md"></div>
+            <div id='stackChart' class="chartFrame col-md"></div>
+        </div>
+    </div>    
     
     <div class="container"><hr></div>
 
     <div class="chartsDiv col justify-content-center text-center">
         
-        <div id='sankChart' class="chartFrame row"></div>
+        <div id='sankChart' class="chartFrame row">
+        </div>
         
         <div class="col">
-            2
-            <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = timeSelector.value" min="0" max="300" step="2" value="{{selected_time}}">
-            300
+            Today
+            <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = dayParser(timeSelector.value)" min="0" max="300" step="2" value="{{selected_time}}">
+            Within a Year
             <br>
             <label for="selectedTime"> Day: </label>
-            <strong><output id="selectedTimeOutput">{{selected_time}}</output></strong>
+            <strong><output id="selectedTimeOutput"></output></strong>
+            <script>selectedTimeOutput.value = dayParser(timeSelector.value)</script>
         </div>
     </div>
-</div>
 
 </form>
 
-<script src="{{ url_for('static', filename='js/constructCharts.js') }}"></script>
+<div class="container"><hr></div>
+
+<form action="/saverun" method="post">
+
+    <div class="container runSaver" style="padding-top:5px;">
+        <h3 style="margin:15px;">Save your run:</h3>
+        <div class="row justify-content-center">
+            <div class="hidden">
+                <input type="range" name="Behavioral Risk Reduction" id="BRRSave" value="{{params['Behavioral Risk Reduction']}}">
+                <input type="range" name="Potential Isolation Effectiveness" id="PIESave" value="{{params['Potential Isolation Effectiveness']}}">
+            </div>
+            <input type="text" name="run_name" id="runName" placeholder="Run Name" class="col-6">
+            <button class="btn btn-outline-success col-4 runSaverButton" type="submit">
+                Save Run
+            </button>
+        </div>
+    </div>
+
+</form>
+
+
+
+
+<script src="{{ url_for('static', filename='js/run/constructCharts.js') }}"></script>
 <script type="text/javascript">
     var run = JSON.parse({{run|tojson}});
 </script>
-<script src="{{ url_for('static', filename='js/updateCharts.js') }}"></script>
+<script src="{{ url_for('static', filename='js/run/updateCharts.js') }}"></script>
 
 {% endblock %}
