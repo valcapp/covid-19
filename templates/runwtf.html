@@ -10,21 +10,25 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-sm text-center">
+                    <!-- {{run_form.brr.label}} -->
                     <label for="Behavioral Risk Reduction">Behavioral Risk Reduction: </label>
                     <br>
                     <strong><output id="BRROut">{{params['Behavioral Risk Reduction']}}</output></strong>
                     <br>
                     0
+                    <!-- {{run_form.brr()}} -->
                     <input type="range" name="Behavioral Risk Reduction" id="BRRIn" value="{{params['Behavioral Risk Reduction']}}" min="0" max="1" step="0.05" oninput="BRROut.value = BRRIn.value; BRRSave.value = BRRIn.value" onchange="submit()">
                     1
                 </div>
                 <div class="col-sm text-center">
                     <label for="Potential Isolation Effectiveness">Potential Isolation Effectiveness: </label>
+                    <!-- {{run_form.pie.label}} -->
                     <br>
                     <strong><output id="PIEOut">{{params['Potential Isolation Effectiveness']}}</output></strong>
                     <br>
                     0
-                    <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value; PIESave.value = PIEIn.value" onchange="submit()">
+                    <!-- {{run_form.pie()}} -->
+                    <input type="range" name="Potential Isolation Effectiveness" id="PIEIn" value="{{params['Potential Isolation Effectiveness']}}" min="0" max="1" step="0.05" oninput="PIEOut.value = PIEIn.value" onchange="submit()">
                     1
                 </div>
             </div>
@@ -48,15 +52,15 @@
         </div>
         
         <div class="col">
-            <p>
-            <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = dayParser(timeSelector.value); timeSelectorSave.value = timeSelector.value" min="0" max="300" step="2" value="{{selected_time}}">
-            <!-- <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = timeSelector.value; timeSelectorSave.value = timeSelector.value" min="0" max="300" step="2" value="{{selected_time}}"> -->
-            </p>
-            
-            <label for="selectedTime"> Day: </label>
+            <!-- Today -->
+            <!-- {{run_form.selected_time()}} -->
+            <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = dayParser(timeSelector.value)" min="0" max="300" step="2" value="{{selected_time}}">
+            <!-- Next Year -->
+            <br>
+            {{run_form.selected_time.label}}
+            <!-- <label for="selectedTime"> Day: </label> -->
             <strong><output id="selectedTimeOutput"></output></strong>
-            <!-- <strong><output id="selectedTimeOutput" value="{{selected_time}}"></output></strong> -->
-            <script>selectedTimeOutput.value = dayParser(timeSelector.value)</script>
+            <script>selectedTimeOutput.value = dayParser(selected_time.value)</script>
         </div>
     </div>
 
@@ -72,9 +76,8 @@
             <div class="hidden">
                 <input type="range" name="Behavioral Risk Reduction" id="BRRSave" value="{{params['Behavioral Risk Reduction']}}">
                 <input type="range" name="Potential Isolation Effectiveness" id="PIESave" value="{{params['Potential Isolation Effectiveness']}}">
-                <input type="range" name="selectedTime" id="timeSelectorSave" value="{{selected_time}}" min="0" max="300">
             </div>
-            <input type="text" name="runName" id="runName" placeholder="Run Name" class="col-6">
+            <input type="text" name="run_name" id="runName" placeholder="Run Name" class="col-6">
             <button class="btn btn-outline-success col-4 runSaverButton" type="submit">
                 Save Run
             </button>
@@ -88,7 +91,7 @@
 
 <script src="{{ url_for('static', filename='js/run/constructCharts.js') }}"></script>
 <script type="text/javascript">
-    var run = JSON.parse({{results|tojson}});
+    var run = JSON.parse({{run|tojson}});
 </script>
 <script src="{{ url_for('static', filename='js/run/updateCharts.js') }}"></script>
 

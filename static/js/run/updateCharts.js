@@ -35,7 +35,7 @@ stackChart.updateData(dateSeries, susceptibleSeries, exposedSeries, infectedSeri
 sankChart.updateData(flows[selectedStep]);
 
 timeSelector.addEventListener('change', function(event){
-    console.log('This is the selected time stamp: ',event.target.value);
+    // console.log('This is the selected time stamp: ',event.target.value);
     var selectedStep = parseInt(event.target.value/2 -1);
     sankChart.updateData(flows[selectedStep]);
 });

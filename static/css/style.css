@@ -1,0 +1,98 @@
+
+h1 {
+    margin: 0 auto 20px;
+}
+
+#baseDiv{
+    margin-top: 100px;
+}
+
+#controllers{
+    width:100%;
+    padding: 32px 16px;
+    /* background-color: #e9ecef; */
+}
+
+.chartFrame{
+    min-height:350px;
+    min-width: 280px;
+    /* transition: 0.5s; */
+}
+
+#timeSelector{
+    width: 60%;
+}
+
+#runNameHidden{
+    display:none;
+}
+
+#runName{
+    border:solid lightgrey 1px;
+    border-radius:5px;
+    margin-right:10px;
+}
+#runName:focus{
+    outline: none;
+    border:solid mediumturquoise 1px;
+    border-radius:5px;
+}
+#runName::placeholder{
+    color:lightgray;
+}
+
+.hidden{
+    display:none;
+}
+
+
+.accordion div.card:only-child { 
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: calc(0.25rem - 1px);
+}
+
+.card.card-body{
+    padding: 0px;
+}
+
+.runsListItem:nth-child(2n+1){
+    background-color: rgba(0,0,0,0.02)
+}
+
+input[type=checkbox]{
+    margin-left: 20px;
+    margin-right:10px;
+}
+
+.runsListItem .uncheckedLabel {
+    color: lightgrey;
+    font-weight: lighter;
+} 
+input[type=checkbox] + label {
+    color: lightgrey;
+    font-weight: lighter;
+} 
+input[type=checkbox]:checked + label {
+    color: black;
+} 
+
+.selectRunButton{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: none;
+}
+.selectRunButton:focus{
+    outline: none;
+    /* color: #2196F3 */
+}
+
+footer{
+    margin: 50px auto;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    color: grey
+}

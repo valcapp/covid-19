@@ -5,21 +5,75 @@
     <h1>Compare Runs</h1>
 </div>
 
-{% if run_names %}
+{% if runs %}
+
+<div class="container">
+<div class="accordion" id="accordionSelectRuns">
+    <div class="card">
+        <div class="card-header" id="headingSelectRuns">
+            <h4>
+                <button class="selectRunButton" type="button" data-toggle="collapse" data-target="#runsCheckboxes" aria-expanded="true" aria-controls="collapseOne" style="">
+                Select Runs
+                </button>
+            </h4>
+        </div>
+
+        <div id="runsCheckboxes" class="collapse" aria-labelledby="headingSelectRuns" data-parent="#accordionSelectRuns">
+            <div class="card card-body" style="max-height: 150px; overflow-x:scroll;">
+                {% for run_name in run_names %}
+                    <div class="runsListItem">
+                        <!-- option 1 -->
+                        <!-- <input type="checkbox" id="{{run_name}}Checkbox" name="{{run_name}}Checkbox" value="{{run_name}}" checked>
+                        <label for="{{run_name}}Checkbox"> {{run_name}} </label> -->
+                        
+                        <!-- option 2 -->
+                        
+                        <label class="switch">
+                            <input type="checkbox" id="{{run_name}}Checkbox" name="{{run_name}}Checkbox" value="{{run_name}}" checked>
+                            <span class="slider round"></span>
+                        </label> 
+                        <label for="{{run_name}}Checkbox"> {{run_name}} </label>
+                        
+                    </div>
+                    
+                {%endfor%}
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+    <!-- <div class="container">
+        <p>
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#runsCheckboxes" aria-expanded="false" aria-controls="collapseExample">
+                Select Runs
+            </button>
+        </p>
+        <div class="collapse" id="runsCheckboxes">
+            <div class="card card-body" style="max-height: 150px; overflow-x:scroll;">
+                {#  for run_name in run_names #}
+                    <div class="runsListItem">
+                        <input type="checkbox" id="{{run_name}}Checkbox" name="{{run_name}}Checkbox" value="{{run_name}}" checked>
+                        <label for="{{run_name}}Checkbox"> {{run_name}} </label>
+                    </div>
+                {#endfor#}
+            </div>
+        </div>
+    </div> -->
+
+
     <div class="chartsDiv col justify-content-center text-center">
         <div class="row">
-            {% for run in run_names %}
-                <div id='{{run}}' class="chartFrame">
-
+            {% for run_name in run_names %}
+                <div id='{{run_name}}Chart' class="chartFrame">
                 </div>
             {%endfor%}
         </div>
             
         <div class="col">
-            Today
+            <p>
             <input type="range" name="selectedTime" id="timeSelector" oninput="selectedTimeOutput.value = dayParser(timeSelector.value)" min="0" max="300" step="2" value="{{selected_time}}">
-            Within a Year
-            <br>
+            </p>
             <label for="selectedTime"> Day: </label>
             <strong><output id="selectedTimeOutput"></output></strong>
             <script>selectedTimeOutput.value = dayParser(timeSelector.value)</script>
@@ -41,21 +95,31 @@
 
 <div class="container runAgain" style="padding-top:5px;">
     <!-- <h3 style="margin:15px;">Save your run:</h3> -->
-    <div class="row justify-content-center" style="margin:15px;">
+    <div class="row justify-content-around" style="margin:15px;">
         <!-- <input type="text" name="run_name" id="runName" placeholder="Run Name" class="col-6"> -->
         <form action="/run" method="get">
-            <button class="btn btn-outline-primary btn-lg col runAgainButton" type="submit">
+            <button class="btn btn-outline-success btn-lg" id="runAgainButton" type="submit">
                 New Run
+            </button>
+        </form>
+        <form action="/manage" method="get">
+            <button class="btn btn-outline-danger btn-lg" id="manageRunsButton" type="submit">
+                Manage Runs
             </button>
         </form>
     </div>
 </div>
 
+
+{% if runs %}
+
 <script type="text/javascript">
-    var runNames = {{run_names|safe}};
-    var runs = JSON.parse({{runs|tojson|safe}});
+    //var runNames = {{run_names|safe}};
+    var runs = JSON.parse({{runs|tojson|safe}}).runs;
+    //console.log(runs);
 </script>
 <script src="{{ url_for('static', filename='js/compare/charts.js') }}"></script>
-
+<script src="{{ url_for('static', filename='js/compare/checkboxes.js') }}"></script>
+{% endif %}
 
 {% endblock %}

@@ -2,22 +2,22 @@
 var data = {};
 const colKeys =['Susceptible', 'Exposed', 'Infected','Recovered','Deaths'];
 
+
 // populate the data obj: first key is the the run name (runName), the following index is the time step. Each of these time steps contains the array of values corresponding to the different variables (colKeys)
-for (let runName of runNames){
-    run = JSON.parse(runs[runName].run);
-    data[runName]=[];
-    for(var i=0 ; i<Object.keys(run[colKeys[0]]).length ; i++){
+for (let run of Object.values(runs)){
+    // run = JSON.parse(runs[runName].run);
+    data[run.name]=[];
+    var results = run.results;
+    for(var i=0 ; i<Object.keys(results[colKeys[0]]).length ; i++){
         // console.log(i);
         let tStamp = [];
         for(let colKey of colKeys){
-            tStamp.push(Object.values(run[colKey])[i]);
+            tStamp.push(Object.values(results[colKey])[i]);
         }
         // console.log(tStamp);
-        data[runName].push(tStamp);
+        data[run.name].push(tStamp);
     } 
 }
-// console.log("data: ",data);
-// console.log("data['Last Run']: ",data['Last Run']);
 
 // define the pieChartClass
 class pieChartClass{
@@ -59,7 +59,7 @@ class pieChartClass{
     }
 
     plot(){
-        Plotly.newPlot(this.runName, this.data, this.layout);
+        Plotly.newPlot(this.runName+'Chart', this.data, this.layout);
     }
 
 }
@@ -70,7 +70,7 @@ var timeSelector = document.querySelector("#timeSelector");
 var selectedStep = parseInt(timeSelector.value/2 -1);
 
 // create the time charts
-runNames.forEach(runName => {
+Object.keys(runs).forEach(runName => {
     pieCharts[runName] = new pieChartClass(runName);
     // console.log(data[runName][selectedStep]);
     // console.log(data[runName][148]);

@@ -1,7 +1,9 @@
 Flask
 Flask-RESTful
 pysd
-# Flask-JWT
-# Flask-SQLAlchemy
+Flask-WTF
+Flask-JWT
+Flask-Migrate
+Flask-SQLAlchemy
 uwsgi
 psycopg2
