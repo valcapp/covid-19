@@ -38,6 +38,10 @@ runs = {}
 def index():
     return render_template("index.html"),200
 
+@app.route("/about")
+def about():
+    return render_template("about.html"),200
+
 @app.route("/run")
 def run():
     form = RunForm(request).parsed()

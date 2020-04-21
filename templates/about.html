@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <div class="container">
+
+        <h2 class="display-4">About us</h2>
+
+
+        <hr class="my-4">
+
+        <p class="lead">This application was realized by Valerio Cappuccio as experiment and demonstration of integrating a system dynamics model into a web page. This is not an official website and it is still work in progress. </p>
+        <p>
+            The system dynamics model used is the publicly available <a href="http://vensim.com/coronavirus/">Community Coronavirus Conceptual Model</a> Tom Fiddaman, Ventana Systems, Inc., 2020.
+        </p>
+        <p>
+            The application uses a <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a> server to render .html templates and run in the background the Python version of the model.
+        </p>
+        <p>
+            The system dynamics model was converted into Python using <a href="https://pysd.readthedocs.io/en/master/">PySD</a> library developed by James P. Houghton.
+        </p>
+
+        <hr class="my-4">
+        <p class="lead">
+            <a class="btn btn-primary btn-lg" href="/run" role="button">Run Model</a>
+        </p>
+    </div>
+</div>
+
+{% endblock %}
+
