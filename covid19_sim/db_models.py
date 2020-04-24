@@ -30,8 +30,8 @@ class Run(db.Model,dbExt):
     __tablename__ = 'runs'
     id = db.Column(db.Integer,primary_key=True)
 
-    # users = db.relationship('User')
-    # user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
+    users = db.relationship('User')
+    user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
     
     name = db.Column(db.Text)
     params = db.Column(db.Text)
@@ -39,7 +39,8 @@ class Run(db.Model,dbExt):
     selected_time = db.Column(db.Integer)
 
     # initialization
-    def __init__(self,name,params,results,selected_time):
+    def __init__(self,user_id,name,params,results,selected_time):
+        self.user_id = user_id
         self.edit(name,params,results,selected_time)
     
     def edit(self, name,params,results,selected_time):
@@ -62,6 +63,7 @@ class Run(db.Model,dbExt):
     def json(self):
         return {
             'id':self.id,
+            'user_id':self.user_id,
             'name' : self.name,
             'params' : try_load(self.params),
             'results' : try_load(self.results),

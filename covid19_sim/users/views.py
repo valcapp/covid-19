@@ -48,20 +48,16 @@ def login():
                         next = "/run"
                     return redirect(next)
                 else:
-                    login_fail_msg = "Sorry, the email and password don't match."
+                    login_fail_msg = "Sorry, email and password do not match."
             else:
-                login_fail_msg = "Sorry, the email is not registerd yet."
+                login_fail_msg = "Sorry, email not registerd."
+                print(login_fail_msg)
     return render_template("login.html",login_fail_msg=login_fail_msg)
 
 @users.route('/logout', methods=['GET', 'POST'])
 def logout():
     logout_user()
     return redirect("/")
-
-# @users.route("/logout")
-# def logout():
-#     logout_user()
-#     return redirect(url_for('sim.index'))
 
 
 # @users.route("/account", methods=['GET', 'POST'])

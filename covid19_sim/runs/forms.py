@@ -24,15 +24,3 @@ class SaveRunForm():
         parsed_form = {'name' : self.name }
         parsed_form.update(self.run.parsed())
         return parsed_form
-
-
-# class UpdateRunForm():
-#     def __init__(self,request):
-#         self.id = request.values.get('runId')
-#         self.run = SaveRunForm(request)
-    
-#     def parsed(self):
-#         parsed_form = {'id': self.id}
-#         parsed_form.update(self.run.parsed())
-#         return parsed_form
-

@@ -76,10 +76,11 @@
                         <input type="range" name="Potential Isolation Effectiveness" id="PIESave" value="{{params['Potential Isolation Effectiveness']}}">
                         <input type="range" name="selectedTime" id="timeSelectorSave" value="{{selected_time}}" min="0" max="300">
                     </div>
-                    <input type="text" name="runName" id="runName" placeholder="Run Name" class="col-6">
+                    
+                    <input type="text" name="runName" id="runName" placeholder="Run Name - alphanumeric only" class="col-6">
                     <button class="btn btn-outline-success col-4 runSaverButton" type="submit">
                         Save Run
-                    </button>
+                    </button>  
                 </div>
             {% else %}
                 <p class="lead"><a href="/login">Log in</a> or <a href="/register">register</a> to save and compare runs.</p>
@@ -98,5 +99,6 @@
     var run = JSON.parse({{results|tojson}});
 </script>
 <script src="{{ url_for('static', filename='js/run/updateCharts.js') }}"></script>
+<script src="{{url_for('static',filename='js/run/checkRunName.js')}}"></script>
 
 {% endblock %}

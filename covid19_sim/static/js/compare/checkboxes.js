@@ -19,11 +19,11 @@ $(document).ready(function(){
         //dynamic update of charts in show
         $(this).change(function(){
             var targetChart = "#"+$(this).attr('id').slice(0,-"Checkbox".length)+"Chart";
-            // console.log(targetChart+" css display property was: "+$(targetChart).css("display"));
-            // console.log("something changed: "+targetChart+" should disappear.");
+            console.log(targetChart+" css display property was: "+$(targetChart).css("display"));
+            console.log("something changed: "+targetChart+" should disappear.");
             $(targetChart).toggle('slow');
             // $(targetChart).css("display","none");
-            // console.log(targetChart+" css display property is now: "+$(targetChart).css("display"));
+            console.log(targetChart+" css display property is now: "+$(targetChart).css("display"));
             $("label[for='" + $(this).attr('id') + "']").toggleClass("uncheckedLabel");
         });
     });

@@ -9,9 +9,12 @@
 
         
         {% if already_exists %}
-            <div class="alert alert-danger" role="alert">
-                Sorry, a user is already registered with that email.
-            </div>
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            Sorry, this email is registered already!
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
         {% endif %}
         
 

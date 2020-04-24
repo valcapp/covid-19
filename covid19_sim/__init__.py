@@ -32,9 +32,12 @@ login_manager.login_view = "users.login"
 ###########################
 #### BLUEPRINT CONFIGS #######
 #########################
-from covid19_sim.views import sim
+from covid19_sim.core.views import core
 from covid19_sim.users.views import users
+from covid19_sim.runs.views import runs
+
 # Register the apps
-app.register_blueprint(sim)
+app.register_blueprint(core)
 app.register_blueprint(users)
+app.register_blueprint(runs)
 
