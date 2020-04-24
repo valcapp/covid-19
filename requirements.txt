@@ -1,9 +1,22 @@
+# web framework
 Flask
-Flask-RESTful
-pysd
+# Flask-RESTful
+
+# forms
 Flask-WTF
-Flask-JWT
-Flask-Migrate
+WTForms
+
+# system dynamics
+pysd
+
+# databases
 Flask-SQLAlchemy
+Flask-Migrate
+
+# Authentication
+# Flask-JWT
+Flask-Login
+
+# heroku deployment
 uwsgi
 psycopg2

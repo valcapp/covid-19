@@ -64,24 +64,31 @@
 
 <div class="container"><hr></div>
 
-<form action="/saverun" method="post">
 
-    <div class="container runSaver" style="padding-top:5px;">
-        <h3 style="margin:15px;">Save your run:</h3>
-        <div class="row justify-content-center">
-            <div class="hidden">
-                <input type="range" name="Behavioral Risk Reduction" id="BRRSave" value="{{params['Behavioral Risk Reduction']}}">
-                <input type="range" name="Potential Isolation Effectiveness" id="PIESave" value="{{params['Potential Isolation Effectiveness']}}">
-                <input type="range" name="selectedTime" id="timeSelectorSave" value="{{selected_time}}" min="0" max="300">
-            </div>
-            <input type="text" name="runName" id="runName" placeholder="Run Name" class="col-6">
-            <button class="btn btn-outline-success col-4 runSaverButton" type="submit">
-                Save Run
-            </button>
+    <form action="/saverun" method="post">
+
+        <div class="container runSaver" style="padding-top:5px;">
+            <h3 style="margin:15px;">Save your run</h3>
+            {% if current_user.is_authenticated %}
+                <div class="row justify-content-center">
+                    <div class="hidden">
+                        <input type="range" name="Behavioral Risk Reduction" id="BRRSave" value="{{params['Behavioral Risk Reduction']}}">
+                        <input type="range" name="Potential Isolation Effectiveness" id="PIESave" value="{{params['Potential Isolation Effectiveness']}}">
+                        <input type="range" name="selectedTime" id="timeSelectorSave" value="{{selected_time}}" min="0" max="300">
+                    </div>
+                    <input type="text" name="runName" id="runName" placeholder="Run Name" class="col-6">
+                    <button class="btn btn-outline-success col-4 runSaverButton" type="submit">
+                        Save Run
+                    </button>
+                </div>
+            {% else %}
+                <p class="lead"><a href="/login">Log in</a> or <a href="/register">register</a> to save and compare runs.</p>
+            {% endif %}
         </div>
-    </div>
 
-</form>
+    </form>
+
+
 
 
 

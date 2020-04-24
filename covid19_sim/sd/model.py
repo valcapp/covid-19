@@ -35,25 +35,3 @@ def sd_run(form):
             'results':results.to_json(),
             'selected_time' : selected_time
     }
-
-def sd_run_req(request):
-    params = default_params.copy()
-    data = {
-        'Behavioral Risk Reduction':request.values.get('Behavioral Risk Reduction'),
-        'Potential Isolation Effectiveness':request.values.get('Potential Isolation Effectiveness')
-    }
-    # print(data)
-    new_params = dict((key,float(par)) for key,par in data.items() if par)
-    params.update(new_params)
-        
-    run = model.run(**config,params=params).to_json()
-        
-    selected_time = request.values.get('selectedTime')
-    if not selected_time:
-        selected_time = 40
-        
-    return {
-        'params':params,
-        'run':run,
-        'selected_time':selected_time
-    }
