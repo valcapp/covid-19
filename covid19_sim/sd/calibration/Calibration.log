@@ -1,0 +1,3315 @@
+Initial point of search.
+  R0 = 2.4.
+  Incubation Time = 5.
+  Infection Duration = 7.
+  N Imported Infections = 5.
+  Import Time = 20.
+  Contact density decline = 0.
+  Behavioral Risk Reduction = 0.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.
+  Isolation Reaction Time = 5.
+  Public Health Capacity = 1e+06.
+  Public Health Capacity Sensitivity = 2.
+  Hospital Capacity = 200000.
+  Hospital Capacity Sensitivity = 2.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 1.
+Optimizations = 1.
+Pass = 0.
+Payoff = -2.63142e+21.
+---------------------------------.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Behavior Reaction Time = 50 and 48.992.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Behavior Reaction Time = 48.992 and 47.361.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Behavior Reaction Time = 47.361 and 50.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-5.22341e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-5.15902e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-4.98252e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-4.69223e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-4.44419e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-3.55386e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-2.78507e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-2.12757e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5 and 5.2268.
+With Public Health Capacity Sensitivity = 2.62676 and 2.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.2268 and 5.59377.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Isolation Reaction Time = 5.59377 and 5.
+With Public Health Capacity = 1e+06 and 1.24948e+06.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.24948e+06 and 1.65315e+06.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity = 1.65315e+06 and 1e+06.
+With Public Health Capacity Sensitivity = 2 and 2.2394.
+NOTE Payoff (-1.86763e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 2.2394 and 2.62676.
+NOTE Payoff (-1.85932e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 5.9085 and 8.56349.
+NOTE Payoff (-1.85932e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.56349 and 7.23599.
+NOTE Payoff (-1.85016e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.75e+06.
+NOTE Payoff (-1.85016e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 8.875e+06.
+NOTE Payoff (-1.85016e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.875e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 5.9085 and 7.86275.
+NOTE Payoff (-1.85016e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.86275 and 10.
+NOTE Payoff (-1.3207e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.75e+06.
+NOTE Payoff (-1.3207e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 8.875e+06.
+NOTE Payoff (-1.3207e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.86275 and 10.
+NOTE Payoff (-1.3207e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.93138.
+NOTE Payoff (-1.22995e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.22995e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.22995e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.22995e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.16995e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.16995e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.16995e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.16995e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.1695e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.1695e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.1695e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.1695e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.1683e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.1683e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.1683e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.1683e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10825e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.10825e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.10825e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.10825e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10808e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.10808e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.10808e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.10808e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10154e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.10154e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.10154e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.10154e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10076e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.10076e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.10076e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.10076e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 5.5e+06.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 5.5e+06 and 7.75e+06.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.75e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.02287.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.02287 and 7.44185.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+With Public Health Capacity Sensitivity = 7.44185 and 10.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.10065e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Import Time = 10 and 10.009.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Import Time = 10.009 and 10.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+With Public Health Capacity Sensitivity = 9.37324 and 10.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Import Time = 10 and 10.009.
+With Public Health Capacity Sensitivity = 9.37324 and 10.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Import Time = 10.009 and 10.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.10061e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+Maximum payoff found at:.
+  R0 = 2.92875.
+  Incubation Time = 5.46017.
+  Infection Duration = 6.38907.
+ *N Imported Infections = 9.89978.
+  Import Time = 10.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.368466.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.0522572.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 9.37324.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 1515.
+Optimizations = 1.
+Pass = 3.
+Payoff = -1.10061e+20.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1271        	1515        .
+Iterations                    	22          	26          .
+ R0                           	2.9287475   	2.9287475   .
+ Incubation Time              	5.46017     	5.46017     .
+ Infection Duration           	6.389066    	6.389066    .
+ N Imported Infections        	9.9077917   	9.8997832   .
+ Import Time                  	10          	10          .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.36846633  	0.36846633  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.052257179 	0.052257179 .
+ Isolation Reaction Time      	1           	1           .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	10          	10          .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.1006515e+20	-1.1006121e+20.
+==============================.
+Initial point of search.
+  R0 = 3.09336.
+  Incubation Time = 7.45444.
+  Infection Duration = 10.9871.
+ *N Imported Infections = 7.04745.
+  Import Time = 32.8748.
+  Contact density decline = 0.894743.
+  Behavioral Risk Reduction = 0.999428.
+  Behavior Reaction Time = 23.6428.
+  Potential Isolation Effectiveness = 0.710496.
+  Isolation Reaction Time = 3.38871.
+  Public Health Capacity = 5.57679e+06.
+  Public Health Capacity Sensitivity = 2.94398.
+  Hospital Capacity = 229573.
+  Hospital Capacity Sensitivity = 2.13485.
+  Treated Fatality Rate = 0.176554.
+  Untreated Fatality Rate = 0.143703.
+Simulations = 1516.
+Optimizations = 2.
+Pass = 3.
+Payoff = -6.26299e+21.
+---------------------------------.
+NOTE Payoff (-1.09755e+20) realized at multiple parameter values.
+With Import Time = 29.6884 and 29.7978.
+NOTE Payoff (-1.09745e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.09745e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.09745e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.09745e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.06473e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.06473e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.06473e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.06473e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Import Time = 29.0239 and 28.945.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Import Time = 28.945 and 29.0239.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.06188e+20) realized at multiple parameter values.
+With Import Time = 29.0239 and 28.9551.
+NOTE Payoff (-1.06173e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.06173e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.06173e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.06173e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.06173e+20) realized at multiple parameter values.
+With Import Time = 29.0239 and 28.9652.
+NOTE Payoff (-1.06171e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.06171e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.06171e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.06171e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.0602e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8638.
+NOTE Payoff (-1.0602e+20) realized at multiple parameter values.
+With Import Time = 28.8638 and 28.8152.
+NOTE Payoff (-1.05991e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05991e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05991e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05991e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05987e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8739.
+NOTE Payoff (-1.05987e+20) realized at multiple parameter values.
+With Import Time = 28.8739 and 28.8354.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.884.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Import Time = 28.884 and 28.8557.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Import Time = 28.8557 and 28.8223.
+NOTE Payoff (-1.05983e+20) realized at multiple parameter values.
+With Import Time = 28.8223 and 28.8507.
+NOTE Payoff (-1.05947e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05947e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05947e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05947e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9205.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Import Time = 28.9205 and 28.9286.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Import Time = 28.9286 and 28.9367.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Import Time = 28.9367 and 28.9124.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05939e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05913e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.928.
+NOTE Payoff (-1.05913e+20) realized at multiple parameter values.
+With Import Time = 28.928 and 28.9361.
+NOTE Payoff (-1.05908e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05908e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05908e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05908e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9205.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Import Time = 28.9205 and 28.9286.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Import Time = 28.9286 and 28.9367.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Import Time = 28.9367 and 28.9124.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05787e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9205.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9205 and 28.9286.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9286 and 28.9367.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9367 and 28.9124.
+With Public Health Capacity = 1e+07 and 7.78839e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 7.78839e+06 and 8.8942e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 8.8942e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 8.42624.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.42624 and 10.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8131.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8131 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8233.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8233 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8334.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8334 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8435.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8435 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8363.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8363 and 28.895.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.895 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8638.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8638 and 28.8152.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Import Time = 28.8152 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05786e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05784e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8739.
+NOTE Payoff (-1.05784e+20) realized at multiple parameter values.
+With Import Time = 28.8739 and 28.8354.
+NOTE Payoff (-1.05774e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05774e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05774e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05774e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.8675.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.8675 and 28.8392.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.8392 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9205.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.9205 and 28.9286.
+NOTE Payoff (-1.05679e+20) realized at multiple parameter values.
+With Import Time = 28.9286 and 28.9367.
+NOTE Payoff (-1.05588e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.05588e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.05588e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.05588e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9263.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9263 and 28.9344.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9344 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9124 and 28.9266.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9266 and 28.9347.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Import Time = 28.9347 and 28.9124.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 6.85248 and 7.09188.
+NOTE Payoff (-1.04683e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 7.09188 and 7.47924.
+Maximum payoff found at:.
+  R0 = 4.64634.
+  Incubation Time = 3.
+  Infection Duration = 4.
+ *N Imported Infections = 9.7839.
+  Import Time = 28.9124.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.191505.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.628947.
+ *Isolation Reaction Time = 7.72908.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 7.47924.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+ *Treated Fatality Rate = 0.161133.
+  Untreated Fatality Rate = 0.3.
+Simulations = 3960.
+Optimizations = 2.
+Pass = 3.
+Payoff = -1.04683e+20.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	2862        	3960        .
+Iterations                    	19          	63          .
+ R0                           	4.6463376   	4.6463376   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.9290397   	9.7838996   .
+ Import Time                  	28.912365   	28.912365   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.1798917   	0.19150498  .
+ Behavior Reaction Time       	49.391131   	50          .
+ Potential Isolation Effectiveness	0.62894749  	0.62894749  .
+ Isolation Reaction Time      	7.4821987   	7.7290789   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	6.8524783   	6.8524783   .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.16811883  	0.16113332  .
+ Untreated Fatality Rate      	0.28442485  	0.3         .
+Payoff                        	-1.0578576e+20	-1.0468328e+20.
+==============================.
+Initial point of search.
+  R0 = 4.35808.
+  Incubation Time = 3.23498.
+  Infection Duration = 9.55131.
+ *N Imported Infections = 9.73194.
+  Import Time = 14.1689.
+  Contact density decline = 1.77812.
+ *Behavioral Risk Reduction = 0.536282.
+  Behavior Reaction Time = 18.2025.
+  Potential Isolation Effectiveness = 0.144265.
+ *Isolation Reaction Time = 5.30376.
+  Public Health Capacity = 3.15111e+06.
+  Public Health Capacity Sensitivity = 7.9698.
+  Hospital Capacity = 74882.2.
+  Hospital Capacity Sensitivity = 4.42836.
+ *Treated Fatality Rate = 0.108269.
+  Untreated Fatality Rate = 0.293035.
+Simulations = 3961.
+Optimizations = 3.
+Pass = 3.
+Payoff = -3.54709e+21.
+---------------------------------.
+NOTE Payoff (-1.04222e+20) realized at multiple parameter values.
+With Import Time = 18.5613 and 18.5399.
+NOTE Payoff (-1.04222e+20) realized at multiple parameter values.
+With Import Time = 18.5399 and 18.5318.
+NOTE Payoff (-1.04222e+20) realized at multiple parameter values.
+With Import Time = 18.5318 and 18.4783.
+NOTE Payoff (-1.04222e+20) realized at multiple parameter values.
+With Import Time = 18.4783 and 18.4452.
+NOTE Payoff (-1.04222e+20) realized at multiple parameter values.
+With Import Time = 18.4452 and 18.4578.
+NOTE Payoff (-1.04172e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.04172e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.04172e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.04172e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-1.03961e+20) realized at multiple parameter values.
+With Import Time = 18.5432 and 18.5351.
+NOTE Payoff (-1.03961e+20) realized at multiple parameter values.
+With Import Time = 18.5351 and 18.527.
+NOTE Payoff (-1.03961e+20) realized at multiple parameter values.
+With Import Time = 18.527 and 18.4684.
+NOTE Payoff (-1.03961e+20) realized at multiple parameter values.
+With Import Time = 18.4684 and 18.4908.
+NOTE Payoff (-1.03912e+20) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.03912e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.03912e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.03912e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Import Time = 18.5432 and 18.4784.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Import Time = 18.4784 and 18.5108.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Import Time = 18.5108 and 18.5432.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-1.01677e+20) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Import Time = 20.7024 and 20.8072.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Import Time = 20.8072 and 20.7548.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Import Time = 20.7548 and 20.7024.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.97913e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.5399e+19) realized at multiple parameter values.
+With Import Time = 21.886 and 21.919.
+NOTE Payoff (-8.5399e+19) realized at multiple parameter values.
+With Import Time = 21.919 and 21.9271.
+NOTE Payoff (-8.5399e+19) realized at multiple parameter values.
+With Import Time = 21.9271 and 21.9364.
+NOTE Payoff (-8.5399e+19) realized at multiple parameter values.
+With Import Time = 21.9364 and 21.9283.
+NOTE Payoff (-8.53918e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.53918e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.53918e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.53918e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.53154e+19) realized at multiple parameter values.
+With Import Time = 21.933 and 21.8682.
+NOTE Payoff (-8.53154e+19) realized at multiple parameter values.
+With Import Time = 21.8682 and 21.9006.
+NOTE Payoff (-8.53009e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.53009e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.53009e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.53009e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Import Time = 21.933 and 21.8682.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Import Time = 21.8682 and 21.9006.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Import Time = 21.9006 and 21.933.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.52626e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Import Time = 21.933 and 21.8682.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Import Time = 21.8682 and 21.9006.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Import Time = 21.9006 and 21.933.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.52568e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.5164e+19) realized at multiple parameter values.
+With Import Time = 21.933 and 21.8682.
+NOTE Payoff (-8.5164e+19) realized at multiple parameter values.
+With Import Time = 21.8682 and 21.9006.
+NOTE Payoff (-8.50916e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.50916e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.50916e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.50916e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Import Time = 21.933 and 21.8678.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Import Time = 21.8678 and 21.9004.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Import Time = 21.9004 and 21.933.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.49294e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-8.0942e+19) realized at multiple parameter values.
+With Import Time = 21.7633 and 21.782.
+NOTE Payoff (-8.0942e+19) realized at multiple parameter values.
+With Import Time = 21.782 and 21.7552.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Import Time = 21.6535 and 21.5906.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Import Time = 21.5906 and 21.622.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Import Time = 21.622 and 21.6535.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-8.08814e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-7.77944e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-7.77944e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-7.77944e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-7.77944e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-7.70062e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-7.70062e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-7.70062e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-7.70062e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-7.69523e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-7.69523e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-7.69523e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-7.69523e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.7606 and 9.37324.
+Maximum payoff found at:.
+ *R0 = 4.50013.
+ *Incubation Time = 3.02539.
+ *Infection Duration = 7.51725.
+ *N Imported Infections = 1.
+  Import Time = 21.4165.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.623419.
+ *Behavior Reaction Time = 40.0925.
+ *Potential Isolation Effectiveness = 0.107029.
+ *Isolation Reaction Time = 9.84345.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 9.37324.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 7499.
+Optimizations = 3.
+Pass = 3.
+Payoff = -7.69523e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	5235        	7499        .
+Iterations                    	19          	116         .
+ R0                           	4.5163774   	4.5001308   .
+ Incubation Time              	3.1905349   	3.0253859   .
+ Infection Duration           	7.8677968   	7.5172456   .
+ N Imported Infections        	4.105462    	1           .
+ Import Time                  	14.38328    	21.416501   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.52817737  	0.62341869  .
+ Behavior Reaction Time       	25.651823   	40.092505   .
+ Potential Isolation Effectiveness	0.15120439  	0.10702886  .
+ Isolation Reaction Time      	1           	9.8434463   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	10          	10          .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.2302265e+20	-7.6952267e+19.
+==============================.
+Initial point of search.
+ *R0 = 2.67561.
+ *Incubation Time = 13.9153.
+ *Infection Duration = 8.70802.
+ *N Imported Infections = 9.14952.
+  Import Time = 22.8982.
+  Contact density decline = 3.61092.
+ *Behavioral Risk Reduction = 0.617486.
+ *Behavior Reaction Time = 16.7161.
+ *Potential Isolation Effectiveness = 0.515567.
+ *Isolation Reaction Time = 1.80368.
+  Public Health Capacity = 5.4802e+06.
+  Public Health Capacity Sensitivity = 4.31612.
+  Hospital Capacity = 497650.
+  Hospital Capacity Sensitivity = 6.00193.
+  Treated Fatality Rate = 0.155222.
+  Untreated Fatality Rate = 0.204074.
+Simulations = 7500.
+Optimizations = 4.
+Pass = 3.
+Payoff = -6.26106e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.50013.
+  Incubation Time = 3.02539.
+  Infection Duration = 7.51725.
+  N Imported Infections = 1.
+  Import Time = 21.4165.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.623419.
+  Behavior Reaction Time = 40.0925.
+  Potential Isolation Effectiveness = 0.107029.
+  Isolation Reaction Time = 9.84345.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 9.37324.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.3.
+Simulations = 8468.
+Optimizations = 4.
+Pass = 3.
+Payoff = -7.69523e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	8322        	8468        .
+Iterations                    	12          	130         .
+ R0                           	5           	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.9748673   	9.9748673   .
+ Import Time                  	10.1215     	10.1215     .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.39477282  	0.39477282  .
+ Behavior Reaction Time       	15.272743   	15.272743   .
+ Potential Isolation Effectiveness	0.51032517  	0.51032517  .
+ Isolation Reaction Time      	1           	1           .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	6.5837464   	6.5837464   .
+ Hospital Capacity            	303706.94   	303706.94   .
+ Hospital Capacity Sensitivity	5.9279478   	5.9279478   .
+ Treated Fatality Rate        	0.19315532  	0.19315532  .
+ Untreated Fatality Rate      	0.22938649  	0.22938649  .
+Payoff                        	-1.3529835e+20	-1.3529835e+20.
+==============================.
+Initial point of search.
+  R0 = 4.0464.
+  Incubation Time = 14.5423.
+  Infection Duration = 14.8576.
+  N Imported Infections = 5.79782.
+  Import Time = 38.3763.
+  Contact density decline = 2.5756.
+  Behavioral Risk Reduction = 0.00154048.
+  Behavior Reaction Time = 39.5505.
+  Potential Isolation Effectiveness = 0.584743.
+  Isolation Reaction Time = 4.07375.
+  Public Health Capacity = 9.11043e+06.
+  Public Health Capacity Sensitivity = 2.04586.
+  Hospital Capacity = 350899.
+  Hospital Capacity Sensitivity = 4.2814.
+  Treated Fatality Rate = 0.0560782.
+ *Untreated Fatality Rate = 0.0493546.
+Simulations = 8469.
+Optimizations = 5.
+Pass = 3.
+Payoff = -6.25594e+21.
+---------------------------------.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Import Time = 38.0622 and 37.9529.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Import Time = 37.9529 and 38.0622.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 506428 and 502047.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Hospital Capacity = 502047 and 494959.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Hospital Capacity = 494959 and 506428.
+With Hospital Capacity Sensitivity = 8.35788 and 8.4269.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.4269 and 8.53857.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.53857 and 8.35788.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.39178e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Import Time = 38.0622 and 37.963.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Import Time = 37.963 and 38.0622.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 508749 and 504368.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Hospital Capacity = 504368 and 497280.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Hospital Capacity = 497280 and 508749.
+With Hospital Capacity Sensitivity = 8.50893 and 8.57795.
+NOTE Payoff (-7.36649e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.57795 and 8.68963.
+NOTE Payoff (-7.36648e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.36648e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Import Time = 38.0622 and 37.9731.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Import Time = 37.9731 and 38.0622.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 509028 and 504648.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Hospital Capacity = 504648 and 497559.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Hospital Capacity = 497559 and 509028.
+With Hospital Capacity Sensitivity = 8.54036 and 8.60937.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.60937 and 8.72105.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.72105 and 8.54036.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.36633e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Import Time = 38.0831 and 38.1621.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Import Time = 38.1621 and 38.0831.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 507123 and 502742.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Hospital Capacity = 502742 and 495654.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Hospital Capacity = 495654 and 507123.
+With Hospital Capacity Sensitivity = 8.54868 and 8.6177.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.6177 and 8.72937.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.72937 and 8.54868.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.33839e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Import Time = 38.1024 and 38.1712.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Import Time = 38.1712 and 38.1024.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 505495 and 501114.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Hospital Capacity = 501114 and 494026.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Hospital Capacity = 494026 and 505495.
+With Hospital Capacity Sensitivity = 8.58975 and 8.65876.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 8.65876 and 8.77044.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.33644e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.28067e+19) realized at multiple parameter values.
+With Import Time = 38.1579 and 38.0992.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 517788 and 513408.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Hospital Capacity = 513408 and 506319.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Hospital Capacity = 506319 and 517788.
+With Hospital Capacity Sensitivity = 8.99836 and 9.06737.
+NOTE Payoff (-7.26679e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.06737 and 9.17905.
+NOTE Payoff (-7.26673e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.26673e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Import Time = 38.2907 and 38.2674.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Import Time = 38.2674 and 38.2907.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 569291 and 564910.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Hospital Capacity = 564910 and 557822.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Hospital Capacity = 557822 and 569291.
+With Hospital Capacity Sensitivity = 10 and 9.93098.
+NOTE Payoff (-7.05377e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.93098 and 9.81931.
+NOTE Payoff (-7.05376e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.05376e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.04687e+19) realized at multiple parameter values.
+With Import Time = 38.2907 and 38.2624.
+NOTE Payoff (-7.04687e+19) realized at multiple parameter values.
+With Import Time = 38.2624 and 38.234.
+NOTE Payoff (-7.04687e+19) realized at multiple parameter values.
+With Import Time = 38.234 and 38.2057.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 564176 and 559796.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Hospital Capacity = 559796 and 552707.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Hospital Capacity = 552707 and 564176.
+With Hospital Capacity Sensitivity = 9.99141 and 9.92239.
+NOTE Payoff (-7.04571e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.92239 and 9.81072.
+NOTE Payoff (-7.0457e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.0457e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-7.03878e+19) realized at multiple parameter values.
+With Import Time = 38.2912 and 38.2441.
+NOTE Payoff (-7.03878e+19) realized at multiple parameter values.
+With Import Time = 38.2441 and 38.2676.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 563269 and 558888.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Hospital Capacity = 558888 and 551800.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Hospital Capacity = 551800 and 563269.
+With Hospital Capacity Sensitivity = 10 and 9.93098.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.93098 and 9.81931.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-7.03807e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-6.96832e+19) realized at multiple parameter values.
+With Import Time = 38.1727 and 38.1839.
+NOTE Payoff (-6.96832e+19) realized at multiple parameter values.
+With Import Time = 38.1839 and 38.1758.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 531426 and 527045.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Hospital Capacity = 527045 and 519957.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Hospital Capacity = 519957 and 531426.
+With Hospital Capacity Sensitivity = 10 and 9.93098.
+NOTE Payoff (-6.96405e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.93098 and 9.81931.
+NOTE Payoff (-6.96401e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-6.96401e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-6.92261e+19) realized at multiple parameter values.
+With Import Time = 38.1748 and 38.1132.
+NOTE Payoff (-6.92261e+19) realized at multiple parameter values.
+With Import Time = 38.1132 and 38.144.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 525266 and 520885.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Hospital Capacity = 520885 and 513797.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Hospital Capacity = 513797 and 525266.
+With Hospital Capacity Sensitivity = 10 and 9.93098.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.93098 and 9.81931.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-6.89452e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Import Time = 38.1748 and 38.1132.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Import Time = 38.1132 and 38.144.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Import Time = 38.144 and 38.1748.
+With Public Health Capacity = 1e+07 and 9.55522e+06.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.55522e+06 and 8.83554e+06.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Public Health Capacity = 8.83554e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 9.30468.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.30468 and 10.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 10 and 8.60935.
+With Hospital Capacity = 528815 and 524434.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Hospital Capacity = 524434 and 517346.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Hospital Capacity = 517346 and 528815.
+With Hospital Capacity Sensitivity = 10 and 9.93098.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.93098 and 9.81931.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0558959.
+NOTE Payoff (-6.89225e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0558959 and 0.0594239.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.37324 and 10.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.89224e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.89035e+19) realized at multiple parameter values.
+With Import Time = 38.1748 and 38.0919.
+NOTE Payoff (-6.89035e+19) realized at multiple parameter values.
+With Import Time = 38.0919 and 38.1334.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.88707e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.87745e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.37324 and 10.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Import Time = 38.1748 and 38.1667.
+With Untreated Fatality Rate = 0.0721883 and 0.0537155.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Import Time = 38.1667 and 38.1586.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Import Time = 38.1586 and 38.0914.
+NOTE Payoff (-6.8271e+19) realized at multiple parameter values.
+With Import Time = 38.0914 and 38.1171.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.37324 and 10.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.82287e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.81049e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.74856e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Import Time = 39.0704 and 39.1696.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Import Time = 39.1696 and 39.0704.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.63909e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.63908e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.63908e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.47076e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.47069e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.47069e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.34931e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.34925e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.34925e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.33536e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+With Untreated Fatality Rate = 0.0721883 and 0.0537155.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.37324 and 10.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.33535e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.33356e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Public Health Capacity = 1e+07 and 9.75052e+06.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.75052e+06 and 9.34685e+06.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Public Health Capacity = 9.34685e+06 and 1e+07.
+With Public Health Capacity Sensitivity = 8.60935 and 8.84875.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 8.84875 and 9.23611.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 9.23611 and 8.60935.
+With Hospital Capacity = 529047 and 553995.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Hospital Capacity = 553995 and 594362.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Hospital Capacity = 594362 and 529047.
+With Hospital Capacity Sensitivity = 10 and 9.7606.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.7606 and 9.37324.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Hospital Capacity Sensitivity = 9.37324 and 10.
+With Untreated Fatality Rate = 0.0537155 and 0.0607715.
+NOTE Payoff (-6.33345e+19) realized at multiple parameter values.
+With Untreated Fatality Rate = 0.0607715 and 0.0721883.
+Maximum payoff found at:.
+  R0 = 4.86214.
+  Incubation Time = 3.
+  Infection Duration = 4.
+ *N Imported Infections = 6.75085.
+ *Import Time = 39.6885.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.427768.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.584743.
+ *Isolation Reaction Time = 9.45528.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 8.60935.
+  Hospital Capacity = 529047.
+  Hospital Capacity Sensitivity = 10.
+ *Treated Fatality Rate = 0.190725.
+  Untreated Fatality Rate = 0.0721883.
+Simulations = 10670.
+Optimizations = 5.
+Pass = 3.
+Payoff = -6.33345e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	9690        	10670       .
+Iterations                    	19          	166         .
+ R0                           	4.8613824   	4.8621384   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	6.8901942   	6.7508516   .
+ Import Time                  	38.17484    	39.688465   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.39712362  	0.42776802  .
+ Behavior Reaction Time       	47.824377   	50          .
+ Potential Isolation Effectiveness	0.58474296  	0.58474296  .
+ Isolation Reaction Time      	8.8244414   	9.4552772   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	8.6093515   	8.6093515   .
+ Hospital Capacity            	529047.28   	529047.28   .
+ Hospital Capacity Sensitivity	10          	10          .
+ Treated Fatality Rate        	0.19102391  	0.19072487  .
+ Untreated Fatality Rate      	0.053715468 	0.053715468 .
+Payoff                        	-6.8922406e+19	-6.3334543e+19.
+==============================.
+Initial point of search.
+  R0 = 4.50838.
+  Incubation Time = 3.60389.
+  Infection Duration = 6.69521.
+ *N Imported Infections = 3.52671.
+ *Import Time = 34.8285.
+  Contact density decline = 1.39933.
+ *Behavioral Risk Reduction = 0.264949.
+  Behavior Reaction Time = 34.9114.
+  Potential Isolation Effectiveness = 0.666077.
+ *Isolation Reaction Time = 6.94078.
+  Public Health Capacity = 9.63071e+06.
+  Public Health Capacity Sensitivity = 5.74279.
+  Hospital Capacity = 803009.
+  Hospital Capacity Sensitivity = 6.58956.
+ *Treated Fatality Rate = 0.146811.
+  Untreated Fatality Rate = 0.254679.
+Simulations = 10671.
+Optimizations = 6.
+Pass = 3.
+Payoff = -6.20369e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.86214.
+  Incubation Time = 3.
+  Infection Duration = 4.
+ *N Imported Infections = 6.75085.
+  Import Time = 39.6885.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.427768.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.584743.
+ *Isolation Reaction Time = 9.45528.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 8.60935.
+  Hospital Capacity = 529047.
+  Hospital Capacity Sensitivity = 10.
+ *Treated Fatality Rate = 0.190725.
+  Untreated Fatality Rate = 0.0721883.
+Simulations = 12357.
+Optimizations = 6.
+Pass = 3.
+Payoff = -6.33345e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	11755       	12357       .
+Iterations                    	17          	194         .
+ R0                           	4.9888559   	4.9815655   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4.002417    	4.002417    .
+ N Imported Infections        	9.6119256   	9.9128263   .
+ Import Time                  	13.562575   	13.562575   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.10410418  	0.12061592  .
+ Behavior Reaction Time       	48.178175   	50          .
+ Potential Isolation Effectiveness	0.66607674  	0.66607674  .
+ Isolation Reaction Time      	3.3784706   	3.6887675   .
+ Public Health Capacity       	9763124.1   	9763124.1   .
+ Public Health Capacity Sensitivity	6.5056285   	6.5056285   .
+ Hospital Capacity            	803008.88   	803008.88   .
+ Hospital Capacity Sensitivity	6.5895634   	6.5895634   .
+ Treated Fatality Rate        	0.19764987  	0.19469532  .
+ Untreated Fatality Rate      	0.25467926  	0.25467926  .
+Payoff                        	-1.2478348e+20	-1.2165216e+20.
+==============================.
+Initial point of search.
+ *R0 = 4.48611.
+  Incubation Time = 13.5865.
+  Infection Duration = 11.469.
+ *N Imported Infections = 7.6927.
+  Import Time = 11.8335.
+  Contact density decline = 1.19792.
+ *Behavioral Risk Reduction = 0.549658.
+  Behavior Reaction Time = 34.4814.
+  Potential Isolation Effectiveness = 0.0443538.
+ *Isolation Reaction Time = 5.60405.
+  Public Health Capacity = 7.91559e+06.
+  Public Health Capacity Sensitivity = 3.51374.
+  Hospital Capacity = 910456.
+  Hospital Capacity Sensitivity = 9.05045.
+ *Treated Fatality Rate = 0.11212.
+  Untreated Fatality Rate = 0.195729.
+Simulations = 12358.
+Optimizations = 7.
+Pass = 3.
+Payoff = -5.88448e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.86214.
+ *Incubation Time = 3.
+  Infection Duration = 4.
+  N Imported Infections = 6.75085.
+  Import Time = 39.6885.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.427768.
+  Behavior Reaction Time = 50.
+ *Potential Isolation Effectiveness = 0.584743.
+ *Isolation Reaction Time = 9.45528.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 8.60935.
+  Hospital Capacity = 529047.
+  Hospital Capacity Sensitivity = 10.
+  Treated Fatality Rate = 0.190725.
+  Untreated Fatality Rate = 0.0721883.
+Simulations = 14612.
+Optimizations = 7.
+Pass = 3.
+Payoff = -6.33345e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	13597       	14612       .
+Iterations                    	20          	231         .
+ R0                           	5           	4.7591055   .
+ Incubation Time              	5.2125521   	5.3062647   .
+ Infection Duration           	11.486887   	11.486887   .
+ N Imported Infections        	3.9346557   	3.1148263   .
+ Import Time                  	11.187507   	11.209131   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.55107509  	0.58855604  .
+ Behavior Reaction Time       	40.322252   	50          .
+ Potential Isolation Effectiveness	0.044353797 	0.0050460987.
+ Isolation Reaction Time      	9.1788357   	1           .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	7.4222444   	7.4222444   .
+ Hospital Capacity            	910455.53   	910455.53   .
+ Hospital Capacity Sensitivity	9.0504456   	9.0504456   .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.19572918  	0.19572918  .
+Payoff                        	-1.0894974e+20	-9.5355437e+19.
+==============================.
+Initial point of search.
+  R0 = 4.48746.
+ *Incubation Time = 3.7097.
+  Infection Duration = 13.2583.
+  N Imported Infections = 3.04623.
+  Import Time = 14.7546.
+  Contact density decline = 1.10353.
+ *Behavioral Risk Reduction = 0.373832.
+  Behavior Reaction Time = 21.3217.
+ *Potential Isolation Effectiveness = 0.64108.
+ *Isolation Reaction Time = 5.59263.
+  Public Health Capacity = 8.46546e+06.
+  Public Health Capacity Sensitivity = 1.24219.
+  Hospital Capacity = 89331.8.
+  Hospital Capacity Sensitivity = 6.29406.
+  Treated Fatality Rate = 0.0942759.
+  Untreated Fatality Rate = 0.127321.
+Simulations = 14613.
+Optimizations = 8.
+Pass = 3.
+Payoff = -6.25617e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.86214.
+  Incubation Time = 3.
+  Infection Duration = 4.
+ *N Imported Infections = 6.75085.
+  Import Time = 39.6885.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.427768.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.584743.
+  Isolation Reaction Time = 9.45528.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 8.60935.
+ *Hospital Capacity = 529047.
+  Hospital Capacity Sensitivity = 10.
+  Treated Fatality Rate = 0.190725.
+ *Untreated Fatality Rate = 0.0721883.
+Simulations = 18497.
+Optimizations = 8.
+Pass = 3.
+Payoff = -6.33345e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	16781       	18497       .
+Iterations                    	33          	289         .
+ R0                           	4.8147233   	4.8151879   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.059403    	8.7026225   .
+ Import Time                  	10.312341   	10.312341   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.19466692  	0.23002985  .
+ Behavior Reaction Time       	35.298551   	50          .
+ Potential Isolation Effectiveness	0.61565374  	0.61565374  .
+ Isolation Reaction Time      	1.4805824   	1           .
+ Public Health Capacity       	109604.73   	10000000    .
+ Public Health Capacity Sensitivity	4.7212055   	10          .
+ Hospital Capacity            	10000       	1000000     .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.19849047  	0.18936051  .
+ Untreated Fatality Rate      	0.18836784  	0.24138922  .
+Payoff                        	-1.2449353e+20	-1.1292645e+20.
+==============================.
+Initial point of search.
+ *R0 = 2.30033.
+  Incubation Time = 14.9611.
+  Infection Duration = 6.40449.
+ *N Imported Infections = 8.96147.
+  Import Time = 11.0163.
+  Contact density decline = 0.555511.
+ *Behavioral Risk Reduction = 0.315284.
+  Behavior Reaction Time = 13.0518.
+  Potential Isolation Effectiveness = 0.0223409.
+  Isolation Reaction Time = 4.75507.
+  Public Health Capacity = 5.55049e+06.
+  Public Health Capacity Sensitivity = 3.90097.
+ *Hospital Capacity = 379987.
+  Hospital Capacity Sensitivity = 7.79212.
+  Treated Fatality Rate = 0.055267.
+ *Untreated Fatality Rate = 0.11045.
+Simulations = 18498.
+Optimizations = 9.
+Pass = 3.
+Payoff = -6.21295e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.86214.
+  Incubation Time = 3.
+  Infection Duration = 4.
+ *N Imported Infections = 6.75085.
+  Import Time = 39.6885.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.427768.
+  Behavior Reaction Time = 50.
+ *Potential Isolation Effectiveness = 0.584743.
+ *Isolation Reaction Time = 9.45528.
+  Public Health Capacity = 1e+07.
+  Public Health Capacity Sensitivity = 8.60935.
+  Hospital Capacity = 529047.
+  Hospital Capacity Sensitivity = 10.
+  Treated Fatality Rate = 0.190725.
+  Untreated Fatality Rate = 0.0721883.
+Simulations = 20144.
+Optimizations = 9.
+Pass = 3.
+Payoff = -6.33345e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	19552       	20144       .
+Iterations                    	21          	321         .
+ R0                           	5           	4.87204     .
+ Incubation Time              	15          	13.383533   .
+ Infection Duration           	5.3686816   	5.3686816   .
+ N Imported Infections        	10          	9.4415911   .
+ Import Time                  	10          	10          .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.31962852  	0.34992976  .
+ Behavior Reaction Time       	13.69639    	50          .
+ Potential Isolation Effectiveness	0.12623269  	0.26485492  .
+ Isolation Reaction Time      	10          	9.1936741   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	6.1685947   	6.1685947   .
+ Hospital Capacity            	379987.06   	379987.06   .
+ Hospital Capacity Sensitivity	7.7921245   	7.7921245   .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.11045042  	0.11045042  .
+Payoff                        	-1.7343882e+20	-1.1795619e+20.
+==============================.
+Initial point of search.
+ *R0 = 3.49672.
+  Incubation Time = 14.1948.
+  Infection Duration = 5.17383.
+ *N Imported Infections = 3.2251.
+  Import Time = 28.9061.
+  Contact density decline = 1.82418.
+ *Behavioral Risk Reduction = 0.839147.
+  Behavior Reaction Time = 21.708.
+ *Potential Isolation Effectiveness = 0.252927.
+ *Isolation Reaction Time = 6.72125.
+  Public Health Capacity = 3.86568e+06.
+  Public Health Capacity Sensitivity = 0.687723.
+  Hospital Capacity = 70587.1.
+  Hospital Capacity Sensitivity = 2.97413.
+  Treated Fatality Rate = 0.018792.
+  Untreated Fatality Rate = 0.192186.
+Simulations = 20145.
+Optimizations = 10.
+Pass = 3.
+Payoff = -6.2584e+21.
+---------------------------------.
+NOTE Payoff (-5.05229e+19) realized at multiple parameter values.
+With Import Time = 38.1287 and 38.1368.
+NOTE Payoff (-5.05229e+19) realized at multiple parameter values.
+With Import Time = 38.1368 and 38.1449.
+NOTE Payoff (-5.05229e+19) realized at multiple parameter values.
+With Import Time = 38.1449 and 38.1627.
+NOTE Payoff (-5.05229e+19) realized at multiple parameter values.
+With Import Time = 38.1627 and 38.1737.
+NOTE Payoff (-5.05229e+19) realized at multiple parameter values.
+With Import Time = 38.1737 and 38.1818.
+NOTE Payoff (-4.96197e+19) realized at multiple parameter values.
+With Import Time = 38.0672 and 38.1791.
+NOTE Payoff (-4.96197e+19) realized at multiple parameter values.
+With Import Time = 38.1791 and 38.1232.
+NOTE Payoff (-4.93658e+19) realized at multiple parameter values.
+With Import Time = 38.0632 and 38.1751.
+NOTE Payoff (-4.93658e+19) realized at multiple parameter values.
+With Import Time = 38.1751 and 38.1191.
+NOTE Payoff (-4.89698e+19) realized at multiple parameter values.
+With Import Time = 38.0632 and 38.1751.
+NOTE Payoff (-4.89698e+19) realized at multiple parameter values.
+With Import Time = 38.1751 and 38.1191.
+NOTE Payoff (-4.75353e+19) realized at multiple parameter values.
+With Import Time = 38.0632 and 38.1751.
+NOTE Payoff (-4.75353e+19) realized at multiple parameter values.
+With Import Time = 38.1751 and 38.1191.
+NOTE Payoff (-4.71619e+19) realized at multiple parameter values.
+With Import Time = 38.0632 and 38.1751.
+NOTE Payoff (-4.71619e+19) realized at multiple parameter values.
+With Import Time = 38.1751 and 38.1191.
+NOTE Payoff (-4.71539e+19) realized at multiple parameter values.
+With Import Time = 38.068 and 38.1798.
+NOTE Payoff (-4.71539e+19) realized at multiple parameter values.
+With Import Time = 38.1798 and 38.1239.
+NOTE Payoff (-4.71527e+19) realized at multiple parameter values.
+With Import Time = 38.0724 and 38.1842.
+NOTE Payoff (-4.71527e+19) realized at multiple parameter values.
+With Import Time = 38.1842 and 38.1283.
+NOTE Payoff (-4.71526e+19) realized at multiple parameter values.
+With Import Time = 38.0724 and 38.1842.
+NOTE Payoff (-4.71526e+19) realized at multiple parameter values.
+With Import Time = 38.1842 and 38.1283.
+NOTE Payoff (-4.71502e+19) realized at multiple parameter values.
+With Import Time = 38.0724 and 38.1335.
+NOTE Payoff (-4.71502e+19) realized at multiple parameter values.
+With Import Time = 38.1335 and 38.103.
+NOTE Payoff (-2.26309e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.26309e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.26309e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.26309e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.26203e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.26203e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.26203e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.26203e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.22684e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.22684e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.22684e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.22684e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.1773e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.1773e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.1773e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.1773e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.17371e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.17371e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.17371e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.17371e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.16972e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.16972e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.16972e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.16972e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+NOTE Payoff (-2.16947e+19) realized at multiple parameter values.
+With Public Health Capacity = 101848 and 351328.
+NOTE Payoff (-2.16947e+19) realized at multiple parameter values.
+With Public Health Capacity = 351328 and 754995.
+NOTE Payoff (-2.16947e+19) realized at multiple parameter values.
+With Public Health Capacity = 754995 and 101848.
+With Public Health Capacity Sensitivity = 0.5 and 0.7394.
+NOTE Payoff (-2.16947e+19) realized at multiple parameter values.
+With Public Health Capacity Sensitivity = 0.7394 and 1.12676.
+Maximum payoff found at:.
+  R0 = 4.93855.
+ *Incubation Time = 6.64682.
+  Infection Duration = 5.2702.
+ *N Imported Infections = 2.71559.
+ *Import Time = 38.3213.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.88445.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.
+ *Isolation Reaction Time = 4.47284.
+  Public Health Capacity = 101848.
+  Public Health Capacity Sensitivity = 1.12676.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 24152.
+Optimizations = 10.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	21670       	24152       .
+Iterations                    	26          	388         .
+ R0                           	4.9228867   	4.9385549   .
+ Incubation Time              	6.7027411   	6.6468157   .
+ Infection Duration           	4.0080697   	5.2702045   .
+ N Imported Infections        	8.783136    	2.7155929   .
+ Import Time                  	38.072392   	38.321266   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.71023198  	0.8844495   .
+ Behavior Reaction Time       	41.878596   	50          .
+ Potential Isolation Effectiveness	0.24033423  	0           .
+ Isolation Reaction Time      	1           	4.4728439   .
+ Public Health Capacity       	101847.74   	101847.74   .
+ Public Health Capacity Sensitivity	0.5         	0.5         .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-4.7152627e+19	-2.1694654e+19.
+==============================.
+Initial point of search.
+  R0 = 3.25499.
+ *Incubation Time = 4.13904.
+  Infection Duration = 6.95605.
+ *N Imported Infections = 1.4097.
+ *Import Time = 38.6642.
+  Contact density decline = 1.25187.
+ *Behavioral Risk Reduction = 0.35871.
+  Behavior Reaction Time = 25.0939.
+  Potential Isolation Effectiveness = 0.845672.
+ *Isolation Reaction Time = 6.74481.
+  Public Health Capacity = 757105.
+  Public Health Capacity Sensitivity = 6.08381.
+  Hospital Capacity = 289366.
+  Hospital Capacity Sensitivity = 3.19505.
+  Treated Fatality Rate = 0.0201122.
+  Untreated Fatality Rate = 0.117648.
+Simulations = 24153.
+Optimizations = 11.
+Pass = 3.
+Payoff = -6.26447e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.93855.
+ *Incubation Time = 6.64682.
+ *Infection Duration = 5.2702.
+ *N Imported Infections = 2.71559.
+ *Import Time = 38.3213.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.88445.
+ *Behavior Reaction Time = 50.
+ *Potential Isolation Effectiveness = 0.
+ *Isolation Reaction Time = 4.47284.
+ *Public Health Capacity = 101848.
+ *Public Health Capacity Sensitivity = 1.12676.
+ *Hospital Capacity = 10000.
+ *Hospital Capacity Sensitivity = 0.5.
+ *Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.3.
+Simulations = 25155.
+Optimizations = 11.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	24991       	25155       .
+Iterations                    	14          	405         .
+ R0                           	5           	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	8.3369787   	8.3369787   .
+ Import Time                  	15.809921   	15.809921   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0           	0           .
+ Behavior Reaction Time       	25.093929   	25.093929   .
+ Potential Isolation Effectiveness	0.70505656  	0.70505656  .
+ Isolation Reaction Time      	7.3154461   	7.3154461   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	6.3232117   	6.3232117   .
+ Hospital Capacity            	10114.838   	10114.838   .
+ Hospital Capacity Sensitivity	0.5153351   	0.5         .
+ Treated Fatality Rate        	0.16366934  	0.16116869  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.3798979e+20	-1.3798963e+20.
+==============================.
+Initial point of search.
+ *R0 = 2.22854.
+ *Incubation Time = 13.6979.
+ *Infection Duration = 12.799.
+ *N Imported Infections = 6.96928.
+ *Import Time = 17.7163.
+ *Contact density decline = 3.14563.
+ *Behavioral Risk Reduction = 0.716602.
+ *Behavior Reaction Time = 34.6299.
+ *Potential Isolation Effectiveness = 0.012776.
+ *Isolation Reaction Time = 7.89541.
+ *Public Health Capacity = 8.88848e+06.
+ *Public Health Capacity Sensitivity = 5.55598.
+ *Hospital Capacity = 789303.
+ *Hospital Capacity Sensitivity = 1.57497.
+ *Treated Fatality Rate = 0.0734115.
+ *Untreated Fatality Rate = 0.260776.
+Simulations = 25156.
+Optimizations = 12.
+Pass = 3.
+Payoff = -6.25642e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.93855.
+  Incubation Time = 6.64682.
+  Infection Duration = 5.2702.
+  N Imported Infections = 2.71559.
+  Import Time = 38.3213.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.88445.
+  Behavior Reaction Time = 50.
+ *Potential Isolation Effectiveness = 0.
+ *Isolation Reaction Time = 4.47284.
+  Public Health Capacity = 101848.
+  Public Health Capacity Sensitivity = 1.12676.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.3.
+Simulations = 26917.
+Optimizations = 12.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	26458       	26917       .
+Iterations                    	20          	433         .
+ R0                           	4.4815101   	4.4830221   .
+ Incubation Time              	3.0109785   	3.0109785   .
+ Infection Duration           	7.7153207   	7.7153207   .
+ N Imported Infections        	1.3590133   	1.3590133   .
+ Import Time                  	34.565428   	34.415578   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.82185655  	0.83224529  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.0048943731	0           .
+ Isolation Reaction Time      	1           	3.6818921   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	7.8333997   	7.8333997   .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.29666944  	0.28891054  .
+Payoff                        	-2.7057781e+19	-2.4884288e+19.
+==============================.
+Initial point of search.
+  R0 = 4.00791.
+  Incubation Time = 13.5312.
+  Infection Duration = 11.6004.
+  N Imported Infections = 8.3126.
+  Import Time = 16.317.
+  Contact density decline = 3.10582.
+ *Behavioral Risk Reduction = 0.655737.
+  Behavior Reaction Time = 45.0713.
+ *Potential Isolation Effectiveness = 0.943579.
+ *Isolation Reaction Time = 3.29207.
+  Public Health Capacity = 3.69106e+06.
+  Public Health Capacity Sensitivity = 5.55853.
+  Hospital Capacity = 853693.
+  Hospital Capacity Sensitivity = 4.65721.
+  Treated Fatality Rate = 0.0202542.
+ *Untreated Fatality Rate = 0.0986758.
+Simulations = 26918.
+Optimizations = 13.
+Pass = 3.
+Payoff = -6.26324e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.93855.
+ *Incubation Time = 6.64682.
+ *Infection Duration = 5.2702.
+ *N Imported Infections = 2.71559.
+ *Import Time = 38.3213.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.88445.
+ *Behavior Reaction Time = 50.
+ *Potential Isolation Effectiveness = 0.
+ *Isolation Reaction Time = 4.47284.
+ *Public Health Capacity = 101848.
+ *Public Health Capacity Sensitivity = 1.12676.
+ *Hospital Capacity = 10000.
+ *Hospital Capacity Sensitivity = 0.5.
+ *Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.3.
+Simulations = 28888.
+Optimizations = 13.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	28225       	28888       .
+Iterations                    	18          	463         .
+ R0                           	4.9638196   	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.9481632   	9.0828298   .
+ Import Time                  	40          	40          .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.32264473  	0.33165337  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.62900178  	0.62900178  .
+ Isolation Reaction Time      	9.2251153   	9.3693815   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	7.8261634   	7.8261634   .
+ Hospital Capacity            	946365.1    	946365.1    .
+ Hospital Capacity Sensitivity	5.9540747   	6.1934747   .
+ Treated Fatality Rate        	0.19130575  	0.19122412  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-7.723668e+19	-7.5891227e+19.
+==============================.
+Initial point of search.
+ *R0 = 4.88318.
+ *Incubation Time = 14.0172.
+ *Infection Duration = 7.04429.
+ *N Imported Infections = 1.15512.
+ *Import Time = 16.1345.
+ *Contact density decline = 0.13847.
+ *Behavioral Risk Reduction = 0.238316.
+ *Behavior Reaction Time = 40.7207.
+ *Potential Isolation Effectiveness = 0.633477.
+ *Isolation Reaction Time = 2.41514.
+ *Public Health Capacity = 1.76423e+06.
+ *Public Health Capacity Sensitivity = 6.67174.
+ *Hospital Capacity = 628131.
+ *Hospital Capacity Sensitivity = 2.48428.
+ *Treated Fatality Rate = 0.152705.
+ *Untreated Fatality Rate = 0.203336.
+Simulations = 28889.
+Optimizations = 14.
+Pass = 3.
+Payoff = -6.25883e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.93855.
+  Incubation Time = 6.64682.
+  Infection Duration = 5.2702.
+  N Imported Infections = 2.71559.
+  Import Time = 38.3213.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.88445.
+ *Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.
+ *Isolation Reaction Time = 4.47284.
+  Public Health Capacity = 101848.
+  Public Health Capacity Sensitivity = 1.12676.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 30023.
+Optimizations = 14.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	29798       	30023       .
+Iterations                    	16          	483         .
+ R0                           	5           	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.9001      	9.90253     .
+ Import Time                  	10.072502   	10.072502   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.19867594  	0.19867594  .
+ Behavior Reaction Time       	41.469644   	41.706992   .
+ Potential Isolation Effectiveness	0.63347672  	0.63347672  .
+ Isolation Reaction Time      	1.0246993   	1           .
+ Public Health Capacity       	8191868.3   	8191868.3   .
+ Public Health Capacity Sensitivity	6.6717445   	6.6717445   .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.16370595  	0.16375725  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.1989638e+20	-1.1971956e+20.
+==============================.
+Initial point of search.
+  R0 = 4.32634.
+  Incubation Time = 3.32294.
+  Infection Duration = 10.8519.
+  N Imported Infections = 2.68522.
+  Import Time = 33.3205.
+  Contact density decline = 0.238268.
+  Behavioral Risk Reduction = 0.581324.
+ *Behavior Reaction Time = 14.2893.
+  Potential Isolation Effectiveness = 0.483643.
+ *Isolation Reaction Time = 4.37129.
+  Public Health Capacity = 9.14775e+06.
+  Public Health Capacity Sensitivity = 8.59323.
+  Hospital Capacity = 615786.
+  Hospital Capacity Sensitivity = 2.66369.
+  Treated Fatality Rate = 0.0885722.
+  Untreated Fatality Rate = 0.164456.
+Simulations = 30024.
+Optimizations = 15.
+Pass = 3.
+Payoff = -6.25789e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.93855.
+  Incubation Time = 6.64682.
+  Infection Duration = 5.2702.
+  N Imported Infections = 2.71559.
+  Import Time = 38.3213.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.88445.
+  Behavior Reaction Time = 50.
+  Potential Isolation Effectiveness = 0.
+  Isolation Reaction Time = 4.47284.
+  Public Health Capacity = 101848.
+  Public Health Capacity Sensitivity = 1.12676.
+  Hospital Capacity = 10000.
+  Hospital Capacity Sensitivity = 0.5.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.3.
+Simulations = 31820.
+Optimizations = 15.
+Pass = 3.
+Payoff = -2.16947e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	31090       	31820       .
+Iterations                    	18          	514         .
+ R0                           	4.9829192   	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.7949038   	9.7384061   .
+ Import Time                  	10          	10          .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.43327041  	0.43327041  .
+ Behavior Reaction Time       	10          	10.012      .
+ Potential Isolation Effectiveness	0.47419706  	0.47419706  .
+ Isolation Reaction Time      	2.8811336   	2.6016349   .
+ Public Health Capacity       	9147745.5   	9147745.5   .
+ Public Health Capacity Sensitivity	8.593225    	8.593225    .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.55804149  	0.5         .
+ Treated Fatality Rate        	0.16796665  	0.16308393  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.3631356e+20	-1.3516344e+20.
+==============================.
+Initial point of search.
+  R0 = 3.5635.
+  Incubation Time = 5.80781.
+  Infection Duration = 8.94167.
+  N Imported Infections = 1.84104.
+  Import Time = 21.9871.
+  Contact density decline = 3.93025.
+  Behavioral Risk Reduction = 0.909215.
+  Behavior Reaction Time = 44.4078.
+  Potential Isolation Effectiveness = 0.331262.
+  Isolation Reaction Time = 2.15699.
+  Public Health Capacity = 794074.
+  Public Health Capacity Sensitivity = 5.64525.
+  Hospital Capacity = 546810.
+  Hospital Capacity Sensitivity = 4.54984.
+ *Treated Fatality Rate = 0.0821033.
+  Untreated Fatality Rate = 0.17067.
+Simulations = 31821.
+Optimizations = 16.
+Pass = 3.
+Payoff = -6.25476e+21.
+---------------------------------.
+NOTE Payoff (-2.13726e+19) realized at multiple parameter values.
+With Import Time = 39.9682 and 39.9841.
+NOTE Payoff (-2.13726e+19) realized at multiple parameter values.
+With Import Time = 39.9841 and 40.
+NOTE Payoff (-2.09868e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.991.
+NOTE Payoff (-2.07731e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.991.
+NOTE Payoff (-1.67987e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.946.
+NOTE Payoff (-1.67987e+19) realized at multiple parameter values.
+With Import Time = 39.946 and 39.9594.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.9572.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 39.9572 and 39.9492.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 39.9492 and 39.9877.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.9685.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 39.9685 and 39.9391.
+NOTE Payoff (-1.67985e+19) realized at multiple parameter values.
+With Import Time = 39.9391 and 39.9675.
+NOTE Payoff (-1.67897e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.991.
+NOTE Payoff (-1.67657e+19) realized at multiple parameter values.
+With Import Time = 40 and 39.991.
+Maximum payoff found at:.
+ *R0 = 4.90399.
+ *Incubation Time = 3.02283.
+ *Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+ *Import Time = 40.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+ *Behavior Reaction Time = 45.0897.
+ *Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+ *Public Health Capacity = 100000.
+ *Public Health Capacity Sensitivity = 0.567418.
+ *Hospital Capacity = 75258.2.
+ *Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.0885412.
+Simulations = 34286.
+Optimizations = 16.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	33208       	34286       .
+Iterations                    	22          	553         .
+ R0                           	4.9657557   	4.9039876   .
+ Incubation Time              	3.0228275   	3.0228275   .
+ Infection Duration           	4.0416579   	4.0416579   .
+ N Imported Infections        	1.7145574   	1.7051415   .
+ Import Time                  	40          	40          .
+ Contact density decline      	1.4195034   	4           .
+ Behavioral Risk Reduction    	0.84115904  	0.81941014  .
+ Behavior Reaction Time       	45.078876   	45.089676   .
+ Potential Isolation Effectiveness	0.33136094  	0.33163094  .
+ Isolation Reaction Time      	1           	1           .
+ Public Health Capacity       	100000      	100000      .
+ Public Health Capacity Sensitivity	0.57745134  	0.56741846  .
+ Hospital Capacity            	10000       	75258.23    .
+ Hospital Capacity Sensitivity	0.5         	0.51963812  .
+ Treated Fatality Rate        	0.15528674  	0.2         .
+ Untreated Fatality Rate      	0.27134529  	0.088541221 .
+Payoff                        	-2.0986811e+19	-1.6765718e+19.
+==============================.
+Initial point of search.
+ *R0 = 3.26372.
+ *Incubation Time = 8.89144.
+ *Infection Duration = 9.00222.
+ *N Imported Infections = 9.84123.
+ *Import Time = 13.968.
+ *Contact density decline = 0.949594.
+ *Behavioral Risk Reduction = 0.279015.
+ *Behavior Reaction Time = 16.2075.
+ *Potential Isolation Effectiveness = 0.449306.
+ *Isolation Reaction Time = 5.42189.
+ *Public Health Capacity = 9.11041e+06.
+ *Public Health Capacity Sensitivity = 4.48857.
+ *Hospital Capacity = 962071.
+ *Hospital Capacity Sensitivity = 9.20748.
+ *Treated Fatality Rate = 0.107228.
+ *Untreated Fatality Rate = 0.155902.
+Simulations = 34287.
+Optimizations = 17.
+Pass = 3.
+Payoff = -6.22115e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+  Import Time = 40.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 35740.
+Optimizations = 17.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	35357       	35740       .
+Iterations                    	19          	579         .
+ R0                           	4.9160068   	4.9160068   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	8.3473326   	8.3473326   .
+ N Imported Infections        	9.7938103   	9.8578724   .
+ Import Time                  	11.437272   	11.437272   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.34265107  	0.34793677  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.47056308  	0.47056308  .
+ Isolation Reaction Time      	1           	1.2203474   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	8.3970748   	8.3970748   .
+ Hospital Capacity            	962071.5    	962071.5    .
+ Hospital Capacity Sensitivity	9.2074764   	9.2074764   .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.15590187  	0.15590187  .
+Payoff                        	-1.0887772e+20	-1.0863717e+20.
+==============================.
+Initial point of search.
+  R0 = 2.62884.
+  Incubation Time = 12.5616.
+  Infection Duration = 9.18413.
+ *N Imported Infections = 8.0066.
+  Import Time = 38.8926.
+  Contact density decline = 3.9535.
+ *Behavioral Risk Reduction = 0.436301.
+  Behavior Reaction Time = 42.0935.
+  Potential Isolation Effectiveness = 0.940867.
+ *Isolation Reaction Time = 8.2514.
+  Public Health Capacity = 2.57865e+06.
+  Public Health Capacity Sensitivity = 4.61565.
+  Hospital Capacity = 15271.4.
+  Hospital Capacity Sensitivity = 0.697521.
+  Treated Fatality Rate = 0.199295.
+  Untreated Fatality Rate = 0.161342.
+Simulations = 35741.
+Optimizations = 18.
+Pass = 3.
+Payoff = -6.26257e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.90399.
+ *Incubation Time = 3.02283.
+ *Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+ *Import Time = 40.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+ *Behavior Reaction Time = 45.0897.
+ *Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+ *Public Health Capacity = 100000.
+ *Public Health Capacity Sensitivity = 0.567418.
+ *Hospital Capacity = 75258.2.
+ *Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.0885412.
+Simulations = 37920.
+Optimizations = 18.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	37205       	37920       .
+Iterations                    	21          	613         .
+ R0                           	4.9672621   	4.9477951   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	10          	10          .
+ Import Time                  	37.937314   	37.700044   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.081722397 	0.13633146  .
+ Behavior Reaction Time       	35.247031   	50          .
+ Potential Isolation Effectiveness	0.67451395  	0.67034697  .
+ Isolation Reaction Time      	10          	10          .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	6.8832839   	6.8832839   .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	2.0159329   	2.0148609   .
+ Treated Fatality Rate        	0.2         	0.19797417  .
+ Untreated Fatality Rate      	0.02        	0.02        .
+Payoff                        	-1.1405265e+20	-1.0208239e+20.
+==============================.
+Initial point of search.
+ *R0 = 3.0279.
+ *Incubation Time = 7.49545.
+ *Infection Duration = 5.69041.
+ *N Imported Infections = 2.50182.
+ *Import Time = 19.3751.
+ *Contact density decline = 0.465784.
+ *Behavioral Risk Reduction = 0.729827.
+ *Behavior Reaction Time = 27.9145.
+ *Potential Isolation Effectiveness = 0.213482.
+ *Isolation Reaction Time = 6.39295.
+ *Public Health Capacity = 7.53262e+06.
+ *Public Health Capacity Sensitivity = 7.92746.
+ *Hospital Capacity = 604125.
+ *Hospital Capacity Sensitivity = 3.57053.
+ *Treated Fatality Rate = 0.11281.
+ *Untreated Fatality Rate = 0.130933.
+Simulations = 37921.
+Optimizations = 19.
+Pass = 3.
+Payoff = -6.25046e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+  N Imported Infections = 1.70514.
+  Import Time = 40.
+ *Contact density decline = 4.
+  Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+ *Hospital Capacity = 75258.2.
+ *Hospital Capacity Sensitivity = 0.519638.
+  Treated Fatality Rate = 0.2.
+ *Untreated Fatality Rate = 0.0885412.
+Simulations = 41413.
+Optimizations = 19.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	39297       	41413       .
+Iterations                    	22          	668         .
+ R0                           	4.9978974   	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4.7792389   	4.7773358   .
+ N Imported Infections        	2.4775955   	1.6622413   .
+ Import Time                  	39.446088   	39.562509   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.65863055  	0.70429734  .
+ Behavior Reaction Time       	30.23082    	31.380615   .
+ Potential Isolation Effectiveness	0.24405918  	0.18488111  .
+ Isolation Reaction Time      	3.3511179   	1           .
+ Public Health Capacity       	7532619.5   	7532619.5   .
+ Public Health Capacity Sensitivity	7.9274569   	7.9274569   .
+ Hospital Capacity            	10000       	16488.897   .
+ Hospital Capacity Sensitivity	2.3130681   	1.0084827   .
+ Treated Fatality Rate        	0.19998846  	0.2         .
+ Untreated Fatality Rate      	0.02        	0.17513136  .
+Payoff                        	-4.9777586e+19	-4.0585768e+19.
+==============================.
+Initial point of search.
+  R0 = 2.98713.
+  Incubation Time = 9.07623.
+  Infection Duration = 8.01801.
+  N Imported Infections = 2.75276.
+  Import Time = 22.2788.
+ *Contact density decline = 2.71185.
+  Behavioral Risk Reduction = 0.743204.
+  Behavior Reaction Time = 21.3233.
+  Potential Isolation Effectiveness = 0.731383.
+  Isolation Reaction Time = 4.08425.
+  Public Health Capacity = 740356.
+  Public Health Capacity Sensitivity = 7.19045.
+ *Hospital Capacity = 939762.
+ *Hospital Capacity Sensitivity = 4.49266.
+  Treated Fatality Rate = 0.169711.
+ *Untreated Fatality Rate = 0.249581.
+Simulations = 41414.
+Optimizations = 20.
+Pass = 3.
+Payoff = -6.26435e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+  Import Time = 40.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+ *Hospital Capacity = 75258.2.
+ *Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 43534.
+Optimizations = 20.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	43046       	43534       .
+Iterations                    	23          	700         .
+ R0                           	5           	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	8.4264245   	8.5384246   .
+ Import Time                  	21.562558   	21.562558   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.12032221  	0.12525466  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.66936429  	0.66936429  .
+ Isolation Reaction Time      	6.2215989   	6.2878282   .
+ Public Health Capacity       	7580201.8   	7580201.8   .
+ Public Health Capacity Sensitivity	7.1904548   	7.1904548   .
+ Hospital Capacity            	10000       	10030.267   .
+ Hospital Capacity Sensitivity	0.55039838  	0.517695    .
+ Treated Fatality Rate        	0.18042287  	0.1652548   .
+ Untreated Fatality Rate      	0.25591325  	0.299916    .
+Payoff                        	-1.1769889e+20	-1.1745506e+20.
+==============================.
+Initial point of search.
+  R0 = 4.0343.
+  Incubation Time = 13.8965.
+  Infection Duration = 6.48967.
+ *N Imported Infections = 5.16585.
+  Import Time = 18.0137.
+  Contact density decline = 2.73784.
+ *Behavioral Risk Reduction = 0.837529.
+  Behavior Reaction Time = 23.982.
+  Potential Isolation Effectiveness = 0.595699.
+ *Isolation Reaction Time = 9.92161.
+  Public Health Capacity = 2.83109e+06.
+  Public Health Capacity Sensitivity = 3.33665.
+ *Hospital Capacity = 859343.
+ *Hospital Capacity Sensitivity = 4.30969.
+ *Treated Fatality Rate = 0.186594.
+  Untreated Fatality Rate = 0.183574.
+Simulations = 43535.
+Optimizations = 21.
+Pass = 3.
+Payoff = -6.25737e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+  N Imported Infections = 1.70514.
+  Import Time = 40.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 45480.
+Optimizations = 21.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	44730       	45480       .
+Iterations                    	18          	732         .
+ R0                           	4.9913935   	4.9953718   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.9378629   	9.9204541   .
+ Import Time                  	39.937819   	39.937819   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.29317632  	0.29608659  .
+ Behavior Reaction Time       	25.818575   	26.454488   .
+ Potential Isolation Effectiveness	0.59569911  	0.59569911  .
+ Isolation Reaction Time      	9.6507125   	9.5588228   .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	7.2451513   	7.2451513   .
+ Hospital Capacity            	1000000     	1000000     .
+ Hospital Capacity Sensitivity	4.6941813   	10          .
+ Treated Fatality Rate        	0.19293504  	0.19274023  .
+ Untreated Fatality Rate      	0.17650298  	0.3         .
+Payoff                        	-9.7412335e+19	-9.6315399e+19.
+==============================.
+Initial point of search.
+  R0 = 4.24432.
+  Incubation Time = 14.8233.
+  Infection Duration = 4.15176.
+  N Imported Infections = 3.88557.
+  Import Time = 17.8936.
+  Contact density decline = 1.55483.
+  Behavioral Risk Reduction = 0.428746.
+  Behavior Reaction Time = 23.5451.
+  Potential Isolation Effectiveness = 0.371295.
+  Isolation Reaction Time = 1.07012.
+  Public Health Capacity = 2.7747e+06.
+  Public Health Capacity Sensitivity = 9.47561.
+  Hospital Capacity = 281935.
+  Hospital Capacity Sensitivity = 3.63507.
+ *Treated Fatality Rate = 0.190777.
+  Untreated Fatality Rate = 0.0982808.
+Simulations = 45481.
+Optimizations = 22.
+Pass = 3.
+Payoff = -6.19458e+21.
+---------------------------------.
+Maximum payoff found at:.
+ *R0 = 4.90399.
+ *Incubation Time = 3.02283.
+ *Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+ *Import Time = 40.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+ *Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+  Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 47301.
+Optimizations = 22.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	46146       	47301       .
+Iterations                    	10          	762         .
+ R0                           	4.9166905   	4.0976245   .
+ Incubation Time              	5.2353128   	4.9959221   .
+ Infection Duration           	4.1517567   	4.0948261   .
+ N Imported Infections        	4.8819807   	7.1319635   .
+ Import Time                  	17.89359    	18.682506   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.45812853  	0.45447904  .
+ Behavior Reaction Time       	23.986696   	50          .
+ Potential Isolation Effectiveness	0.37225477  	0.372709    .
+ Isolation Reaction Time      	4.942052    	1           .
+ Public Health Capacity       	2774702.2   	2774702.2   .
+ Public Health Capacity Sensitivity	9.4756104   	9.4756104   .
+ Hospital Capacity            	207699.59   	207699.59   .
+ Hospital Capacity Sensitivity	10          	10          .
+ Treated Fatality Rate        	0.2         	0.2         .
+ Untreated Fatality Rate      	0.1069244   	0.1069244   .
+Payoff                        	-1.2295017e+20	-9.4067045e+19.
+==============================.
+Initial point of search.
+ *R0 = 2.78221.
+ *Incubation Time = 3.68262.
+ *Infection Duration = 7.51072.
+ *N Imported Infections = 1.28176.
+ *Import Time = 34.2394.
+  Contact density decline = 1.39479.
+ *Behavioral Risk Reduction = 0.24226.
+ *Behavior Reaction Time = 18.2568.
+  Potential Isolation Effectiveness = 0.583636.
+  Isolation Reaction Time = 2.56855.
+  Public Health Capacity = 6.7385e+06.
+  Public Health Capacity Sensitivity = 1.52564.
+  Hospital Capacity = 378797.
+  Hospital Capacity Sensitivity = 7.40754.
+  Treated Fatality Rate = 0.196487.
+  Untreated Fatality Rate = 0.131346.
+Simulations = 47302.
+Optimizations = 23.
+Pass = 3.
+Payoff = -6.264e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+  Import Time = 40.
+  Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 49418.
+Optimizations = 23.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	49028       	49418       .
+Iterations                    	29          	798         .
+ R0                           	4.6280798   	4.6280798   .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.6251034   	9.099726    .
+ Import Time                  	14.749838   	14.749838   .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0.27371681  	0.26715405  .
+ Behavior Reaction Time       	50          	50          .
+ Potential Isolation Effectiveness	0.58533186  	0.58533186  .
+ Isolation Reaction Time      	1           	1           .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	8.0891285   	8.0891285   .
+ Hospital Capacity            	403745.17   	403745.17   .
+ Hospital Capacity Sensitivity	7.4075433   	7.4075433   .
+ Treated Fatality Rate        	0.19222057  	0.19378774  .
+ Untreated Fatality Rate      	0.13134622  	0.13134622  .
+Payoff                        	-1.0567263e+20	-1.0511289e+20.
+==============================.
+Initial point of search.
+  R0 = 3.67043.
+  Incubation Time = 3.1215.
+  Infection Duration = 9.13558.
+ *N Imported Infections = 7.20111.
+  Import Time = 21.951.
+  Contact density decline = 2.84558.
+ *Behavioral Risk Reduction = 0.0542124.
+  Behavior Reaction Time = 19.5633.
+  Potential Isolation Effectiveness = 0.752277.
+  Isolation Reaction Time = 5.15755.
+  Public Health Capacity = 4.05859e+06.
+  Public Health Capacity Sensitivity = 7.25769.
+  Hospital Capacity = 305390.
+  Hospital Capacity Sensitivity = 2.94591.
+ *Treated Fatality Rate = 0.130461.
+  Untreated Fatality Rate = 0.246685.
+Simulations = 49419.
+Optimizations = 24.
+Pass = 3.
+Payoff = -6.25368e+21.
+---------------------------------.
+Maximum payoff found at:.
+  R0 = 4.90399.
+  Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+  N Imported Infections = 1.70514.
+  Import Time = 40.
+  Contact density decline = 4.
+  Behavioral Risk Reduction = 0.81941.
+  Behavior Reaction Time = 45.0897.
+  Potential Isolation Effectiveness = 0.331631.
+  Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+ *Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 50124.
+Optimizations = 24.
+Pass = 3.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	49798       	50124       .
+Iterations                    	6           	810         .
+ R0                           	5           	5           .
+ Incubation Time              	3           	3           .
+ Infection Duration           	4           	4           .
+ N Imported Infections        	9.924728    	9.924728    .
+ Import Time                  	10          	10          .
+ Contact density decline      	4           	4           .
+ Behavioral Risk Reduction    	0           	0           .
+ Behavior Reaction Time       	19.563317   	19.563317   .
+ Potential Isolation Effectiveness	0.70187747  	0.70187747  .
+ Isolation Reaction Time      	5.1651936   	5.1651936   .
+ Public Health Capacity       	4058585.7   	4058585.7   .
+ Public Health Capacity Sensitivity	7.2576875   	7.2576875   .
+ Hospital Capacity            	14062.773   	10000       .
+ Hospital Capacity Sensitivity	0.54569605  	0.5         .
+ Treated Fatality Rate        	0.17262126  	0.16217845  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-1.3556366e+20	-1.3556273e+20.
+==============================.
+Initial point of search.
+  R0 = 4.96284.
+  Incubation Time = 5.15286.
+  Infection Duration = 5.29727.
+  N Imported Infections = 3.42642.
+  Import Time = 20.2848.
+  Contact density decline = 3.28242.
+  Behavioral Risk Reduction = 0.431447.
+  Behavior Reaction Time = 34.8969.
+  Potential Isolation Effectiveness = 0.166513.
+  Isolation Reaction Time = 1.83083.
+  Public Health Capacity = 2.63884e+06.
+  Public Health Capacity Sensitivity = 1.50285.
+  Hospital Capacity = 972405.
+ *Hospital Capacity Sensitivity = 4.34727.
+ *Treated Fatality Rate = 0.0961884.
+  Untreated Fatality Rate = 0.204683.
+Simulations = 50125.
+Optimizations = 25.
+Pass = 3.
+Payoff = -2.33157e+24.
+---------------------------------.
+Question from Vensim
+   Do you want to do a final simulation?.
+Maximum payoff found at:.
+ *R0 = 4.90399.
+ *Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+ *Import Time = 40.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+ *Behavior Reaction Time = 45.0897.
+ *Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 50730.
+Optimizations = 25.
+Pass = 2.
+Payoff = -1.67657e+19.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	50730       	50730       .
+Iterations                    	9           	819         .
+ R0                           	3.7559835   	3.7559835   .
+ Incubation Time              	4.9392468   	4.9392468   .
+ Infection Duration           	5.2972692   	5.2972692   .
+ N Imported Infections        	4.5572955   	4.5572955   .
+ Import Time                  	20.385744   	20.385744   .
+ Contact density decline      	1.9444814   	1.9444814   .
+ Behavioral Risk Reduction    	0.51854595  	0.51854595  .
+ Behavior Reaction Time       	45.898756   	45.898756   .
+ Potential Isolation Effectiveness	0.1871254   	0.1871254   .
+ Isolation Reaction Time      	9.735662    	9.735662    .
+ Public Health Capacity       	10000000    	10000000    .
+ Public Health Capacity Sensitivity	8.0663337   	8.0663337   .
+ Hospital Capacity            	10000       	10000       .
+ Hospital Capacity Sensitivity	0.5         	0.5         .
+ Treated Fatality Rate        	0.19913719  	0.19913719  .
+ Untreated Fatality Rate      	0.3         	0.3         .
+Payoff                        	-9.0310811e+19	-9.0310811e+19.
+==============================.
+Maximum of simulations/optimizations found at:.
+ *R0 = 4.90399.
+ *Incubation Time = 3.02283.
+  Infection Duration = 4.04166.
+ *N Imported Infections = 1.70514.
+ *Import Time = 40.
+ *Contact density decline = 4.
+ *Behavioral Risk Reduction = 0.81941.
+ *Behavior Reaction Time = 45.0897.
+ *Potential Isolation Effectiveness = 0.331631.
+ *Isolation Reaction Time = 1.
+  Public Health Capacity = 100000.
+  Public Health Capacity Sensitivity = 0.567418.
+  Hospital Capacity = 75258.2.
+  Hospital Capacity Sensitivity = 0.519638.
+ *Treated Fatality Rate = 0.2.
+  Untreated Fatality Rate = 0.0885412.
+Simulations = 50730.
+Optimizations = 25.
+Pass = 2.
+Payoff = -1.67657e+19.
+---------------------------------.

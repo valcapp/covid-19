@@ -13,7 +13,6 @@ runs = Blueprint('runs',__name__)
 @runs.route("/run")
 def run():
     form = RunForm(request).parsed()
-    print('/run: form is: ',form)
     data = sd_run(form)
     return render_template('run.html',**data),200
 
@@ -27,14 +26,10 @@ def dump_if_dict(value):
 @login_required
 def saverun():
     form = SaveRunForm(request).parsed()
-    # print('/saverun: form is: ',form)
     run_name = form.get('name')
     if run_name:
-        # print('selected_time from form_data: ',form['selected_time'])
         data = sd_run(form)
-        # print('selected_time from run_data: ',run_data['selected_time'])
         json_data = dict((key,dump_if_dict(value)) for key,value in data.items())
-        # print('selected_time from json_data: ',json_data['selected_time'])
         Run(current_user.id,run_name,**json_data).save()
         # try using flash messages, bootstrap modals and redirect to run page
         return redirect('/compare')

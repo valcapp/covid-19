@@ -1,0 +1,77 @@
+{UTF-8}
+Confirmed:INTERPOLATE::=
+	GET XLS DATA( 'historical.csv', 'Sheet1' , 'B' , 'D2' )
+	~	people
+	~		|
+
+Deaths:INTERPOLATE::=
+	GET XLS DATA( 'historical.csv', 'Sheet1' , 'B' , 'G2' )
+	~	people
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 120
+	~	Day
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Day
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Day [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.25
+	~	Day [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|72,72,100,0
+10,1,Confirmed,391,185,28,8,8,3,0,0,0,0,0,0
+10,2,Deaths,388,239,19,8,8,3,0,0,0,0,0,0
+12,3,0,654,192,150,150,3,12,0,0,2,0,0,0
+Confirmed,Graph
+12,4,0,653,499,150,150,3,44,0,0,2,0,0,0
+Deaths,Graph
+///---\\\
+:L<%^E!@
+1:historical.vdf
+9:historical
+22:$,Dollar,Dollars,$s
+22:Hour,Hours
+22:Month,Months
+22:Person,People,Persons
+22:Unit,Units
+22:Week,Weeks
+22:Year,Years
+22:Day,Days
+15:0,0,0,0,0,0
+19:100,0
+27:0,
+34:0,
+4:Time
+5:Deaths
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:4
+41:0
+42:1
+24:0
+25:120
+26:120

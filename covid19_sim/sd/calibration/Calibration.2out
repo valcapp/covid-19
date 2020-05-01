@@ -1,0 +1,50 @@
+:COMSYS After 127614 simulations
+:COMSYS Best payoff is -1.67657e+19
+:COMSYS User terminated multiple search session
+:OPTIMIZER=Powell
+:SENSITIVITY=Off
+:MULTIPLE_START=Random
+:RANDOM_NUMBER=Default
+:OUTPUT_LEVEL=On
+:TRACE=Off
+:MAX_ITERATIONS=1000
+:RESTART_MAX=0
+:PASS_LIMIT=2
+:FRACTIONAL_TOLERANCE=0.0003
+:TOLERANCE_MULTIPLIER=21
+:ABSOLUTE_TOLERANCE=1
+:SCALE_ABSOLUTE=1
+:VECTOR_POINTS=25
+:MCINITMETHOD=0
+:MCPAYOFFTYPE=0
+:MCRECORD=0
+:MCSCHEDULE=0
+:MCLIMIT=0
+:MCBURNIN=0
+:MCNCHAINS=2
+:MCOUTLIER=0.05
+:MCGAMMA=1
+:MCEPSILON=0.01
+:MCDELTA=0.0001
+:MCJUMP=0.05
+:MCUPDATEPAIRS=2
+:MCXOVER=0.2
+:MCTEMP=1
+:MCFTEMP=1
+:MCCOOLING=1000
+2.2 <= R0 = 4.90399  <= 5
+3 <= Incubation Time = 3.02283  <= 15
+4 <= Infection Duration = 4.04166  <= 15
+1 <= N Imported Infections = 1.70514  <= 10
+10 <= Import Time = 40  <= 40
+0 <= Contact density decline = 4  <= 4
+0 <= Behavioral Risk Reduction = 0.81941  <= 1
+10 <= Behavior Reaction Time = 45.0897  <= 50
+0 <= Potential Isolation Effectiveness = 0.331631  <= 1
+1 <= Isolation Reaction Time = 1  <= 10
+100000 <= Public Health Capacity = 100000  <= 1e+07
+0.5 <= Public Health Capacity Sensitivity = 0.567418  <= 10
+10000 <= Hospital Capacity = 75258.2  <= 1e+06
+0.5 <= Hospital Capacity Sensitivity = 0.519638  <= 10
+0.01 <= Treated Fatality Rate = 0.2  <= 0.2
+0.02 <= Untreated Fatality Rate = 0.0885412  <= 0.3

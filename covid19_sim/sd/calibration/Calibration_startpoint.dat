@@ -1,0 +1,852 @@
+R0
+0 2.4
+Incubation Time
+0 5
+Infection Duration
+0 7
+N Imported Infections
+0 5
+Import Time
+0 20
+Contact density decline
+0 0
+Behavioral Risk Reduction
+0 0
+Behavior Reaction Time
+0 50
+Potential Isolation Effectiveness
+0 0
+Isolation Reaction Time
+0 5
+Public Health Capacity
+0 1e+06
+Public Health Capacity Sensitivity
+0 2
+Hospital Capacity
+0 200000
+Hospital Capacity Sensitivity
+0 2
+Treated Fatality Rate
+0 0.2
+Untreated Fatality Rate
+0 0.3
+Payoff
+0 -2.63142e+21
+Best_Payoff
+0 -2.63142e+21
+R0
+1 3.09336
+Incubation Time
+1 7.45444
+Infection Duration
+1 10.9871
+N Imported Infections
+1 7.04745
+Import Time
+1 32.8748
+Contact density decline
+1 0.894743
+Behavioral Risk Reduction
+1 0.999428
+Behavior Reaction Time
+1 23.6428
+Potential Isolation Effectiveness
+1 0.710496
+Isolation Reaction Time
+1 3.38871
+Public Health Capacity
+1 5.57679e+06
+Public Health Capacity Sensitivity
+1 2.94398
+Hospital Capacity
+1 229573
+Hospital Capacity Sensitivity
+1 2.13485
+Treated Fatality Rate
+1 0.176554
+Untreated Fatality Rate
+1 0.143703
+Payoff
+1 -6.26299e+21
+R0
+2 4.35808
+Incubation Time
+2 3.23498
+Infection Duration
+2 9.55131
+N Imported Infections
+2 9.73194
+Import Time
+2 14.1689
+Contact density decline
+2 1.77812
+Behavioral Risk Reduction
+2 0.536282
+Behavior Reaction Time
+2 18.2025
+Potential Isolation Effectiveness
+2 0.144265
+Isolation Reaction Time
+2 5.30376
+Public Health Capacity
+2 3.15111e+06
+Public Health Capacity Sensitivity
+2 7.9698
+Hospital Capacity
+2 74882.2
+Hospital Capacity Sensitivity
+2 4.42836
+Treated Fatality Rate
+2 0.108269
+Untreated Fatality Rate
+2 0.293035
+Payoff
+2 -3.54709e+21
+R0
+3 2.67561
+Incubation Time
+3 13.9153
+Infection Duration
+3 8.70802
+N Imported Infections
+3 9.14952
+Import Time
+3 22.8982
+Contact density decline
+3 3.61092
+Behavioral Risk Reduction
+3 0.617486
+Behavior Reaction Time
+3 16.7161
+Potential Isolation Effectiveness
+3 0.515567
+Isolation Reaction Time
+3 1.80368
+Public Health Capacity
+3 5.4802e+06
+Public Health Capacity Sensitivity
+3 4.31612
+Hospital Capacity
+3 497650
+Hospital Capacity Sensitivity
+3 6.00193
+Treated Fatality Rate
+3 0.155222
+Untreated Fatality Rate
+3 0.204074
+Payoff
+3 -6.26106e+21
+R0
+4 4.0464
+Incubation Time
+4 14.5423
+Infection Duration
+4 14.8576
+N Imported Infections
+4 5.79782
+Import Time
+4 38.3763
+Contact density decline
+4 2.5756
+Behavioral Risk Reduction
+4 0.00154048
+Behavior Reaction Time
+4 39.5505
+Potential Isolation Effectiveness
+4 0.584743
+Isolation Reaction Time
+4 4.07375
+Public Health Capacity
+4 9.11043e+06
+Public Health Capacity Sensitivity
+4 2.04586
+Hospital Capacity
+4 350899
+Hospital Capacity Sensitivity
+4 4.2814
+Treated Fatality Rate
+4 0.0560782
+Untreated Fatality Rate
+4 0.0493546
+Payoff
+4 -6.25594e+21
+R0
+5 4.50838
+Incubation Time
+5 3.60389
+Infection Duration
+5 6.69521
+N Imported Infections
+5 3.52671
+Import Time
+5 34.8285
+Contact density decline
+5 1.39933
+Behavioral Risk Reduction
+5 0.264949
+Behavior Reaction Time
+5 34.9114
+Potential Isolation Effectiveness
+5 0.666077
+Isolation Reaction Time
+5 6.94078
+Public Health Capacity
+5 9.63071e+06
+Public Health Capacity Sensitivity
+5 5.74279
+Hospital Capacity
+5 803009
+Hospital Capacity Sensitivity
+5 6.58956
+Treated Fatality Rate
+5 0.146811
+Untreated Fatality Rate
+5 0.254679
+Payoff
+5 -6.20369e+21
+R0
+6 4.48611
+Incubation Time
+6 13.5865
+Infection Duration
+6 11.469
+N Imported Infections
+6 7.6927
+Import Time
+6 11.8335
+Contact density decline
+6 1.19792
+Behavioral Risk Reduction
+6 0.549658
+Behavior Reaction Time
+6 34.4814
+Potential Isolation Effectiveness
+6 0.0443538
+Isolation Reaction Time
+6 5.60405
+Public Health Capacity
+6 7.91559e+06
+Public Health Capacity Sensitivity
+6 3.51374
+Hospital Capacity
+6 910456
+Hospital Capacity Sensitivity
+6 9.05045
+Treated Fatality Rate
+6 0.11212
+Untreated Fatality Rate
+6 0.195729
+Payoff
+6 -5.88448e+21
+R0
+7 4.48746
+Incubation Time
+7 3.7097
+Infection Duration
+7 13.2583
+N Imported Infections
+7 3.04623
+Import Time
+7 14.7546
+Contact density decline
+7 1.10353
+Behavioral Risk Reduction
+7 0.373832
+Behavior Reaction Time
+7 21.3217
+Potential Isolation Effectiveness
+7 0.64108
+Isolation Reaction Time
+7 5.59263
+Public Health Capacity
+7 8.46546e+06
+Public Health Capacity Sensitivity
+7 1.24219
+Hospital Capacity
+7 89331.8
+Hospital Capacity Sensitivity
+7 6.29406
+Treated Fatality Rate
+7 0.0942759
+Untreated Fatality Rate
+7 0.127321
+Payoff
+7 -6.25617e+21
+R0
+8 2.30033
+Incubation Time
+8 14.9611
+Infection Duration
+8 6.40449
+N Imported Infections
+8 8.96147
+Import Time
+8 11.0163
+Contact density decline
+8 0.555511
+Behavioral Risk Reduction
+8 0.315284
+Behavior Reaction Time
+8 13.0518
+Potential Isolation Effectiveness
+8 0.0223409
+Isolation Reaction Time
+8 4.75507
+Public Health Capacity
+8 5.55049e+06
+Public Health Capacity Sensitivity
+8 3.90097
+Hospital Capacity
+8 379987
+Hospital Capacity Sensitivity
+8 7.79212
+Treated Fatality Rate
+8 0.055267
+Untreated Fatality Rate
+8 0.11045
+Payoff
+8 -6.21295e+21
+R0
+9 3.49672
+Incubation Time
+9 14.1948
+Infection Duration
+9 5.17383
+N Imported Infections
+9 3.2251
+Import Time
+9 28.9061
+Contact density decline
+9 1.82418
+Behavioral Risk Reduction
+9 0.839147
+Behavior Reaction Time
+9 21.708
+Potential Isolation Effectiveness
+9 0.252927
+Isolation Reaction Time
+9 6.72125
+Public Health Capacity
+9 3.86568e+06
+Public Health Capacity Sensitivity
+9 0.687723
+Hospital Capacity
+9 70587.1
+Hospital Capacity Sensitivity
+9 2.97413
+Treated Fatality Rate
+9 0.018792
+Untreated Fatality Rate
+9 0.192186
+Payoff
+9 -6.2584e+21
+R0
+10 3.25499
+Incubation Time
+10 4.13904
+Infection Duration
+10 6.95605
+N Imported Infections
+10 1.4097
+Import Time
+10 38.6642
+Contact density decline
+10 1.25187
+Behavioral Risk Reduction
+10 0.35871
+Behavior Reaction Time
+10 25.0939
+Potential Isolation Effectiveness
+10 0.845672
+Isolation Reaction Time
+10 6.74481
+Public Health Capacity
+10 757105
+Public Health Capacity Sensitivity
+10 6.08381
+Hospital Capacity
+10 289366
+Hospital Capacity Sensitivity
+10 3.19505
+Treated Fatality Rate
+10 0.0201122
+Untreated Fatality Rate
+10 0.117648
+Payoff
+10 -6.26447e+21
+R0
+11 2.22854
+Incubation Time
+11 13.6979
+Infection Duration
+11 12.799
+N Imported Infections
+11 6.96928
+Import Time
+11 17.7163
+Contact density decline
+11 3.14563
+Behavioral Risk Reduction
+11 0.716602
+Behavior Reaction Time
+11 34.6299
+Potential Isolation Effectiveness
+11 0.012776
+Isolation Reaction Time
+11 7.89541
+Public Health Capacity
+11 8.88848e+06
+Public Health Capacity Sensitivity
+11 5.55598
+Hospital Capacity
+11 789303
+Hospital Capacity Sensitivity
+11 1.57497
+Treated Fatality Rate
+11 0.0734115
+Untreated Fatality Rate
+11 0.260776
+Payoff
+11 -6.25642e+21
+R0
+12 4.00791
+Incubation Time
+12 13.5312
+Infection Duration
+12 11.6004
+N Imported Infections
+12 8.3126
+Import Time
+12 16.317
+Contact density decline
+12 3.10582
+Behavioral Risk Reduction
+12 0.655737
+Behavior Reaction Time
+12 45.0713
+Potential Isolation Effectiveness
+12 0.943579
+Isolation Reaction Time
+12 3.29207
+Public Health Capacity
+12 3.69106e+06
+Public Health Capacity Sensitivity
+12 5.55853
+Hospital Capacity
+12 853693
+Hospital Capacity Sensitivity
+12 4.65721
+Treated Fatality Rate
+12 0.0202542
+Untreated Fatality Rate
+12 0.0986758
+Payoff
+12 -6.26324e+21
+R0
+13 4.88318
+Incubation Time
+13 14.0172
+Infection Duration
+13 7.04429
+N Imported Infections
+13 1.15512
+Import Time
+13 16.1345
+Contact density decline
+13 0.13847
+Behavioral Risk Reduction
+13 0.238316
+Behavior Reaction Time
+13 40.7207
+Potential Isolation Effectiveness
+13 0.633477
+Isolation Reaction Time
+13 2.41514
+Public Health Capacity
+13 1.76423e+06
+Public Health Capacity Sensitivity
+13 6.67174
+Hospital Capacity
+13 628131
+Hospital Capacity Sensitivity
+13 2.48428
+Treated Fatality Rate
+13 0.152705
+Untreated Fatality Rate
+13 0.203336
+Payoff
+13 -6.25883e+21
+R0
+14 4.32634
+Incubation Time
+14 3.32294
+Infection Duration
+14 10.8519
+N Imported Infections
+14 2.68522
+Import Time
+14 33.3205
+Contact density decline
+14 0.238268
+Behavioral Risk Reduction
+14 0.581324
+Behavior Reaction Time
+14 14.2893
+Potential Isolation Effectiveness
+14 0.483643
+Isolation Reaction Time
+14 4.37129
+Public Health Capacity
+14 9.14775e+06
+Public Health Capacity Sensitivity
+14 8.59323
+Hospital Capacity
+14 615786
+Hospital Capacity Sensitivity
+14 2.66369
+Treated Fatality Rate
+14 0.0885722
+Untreated Fatality Rate
+14 0.164456
+Payoff
+14 -6.25789e+21
+R0
+15 3.5635
+Incubation Time
+15 5.80781
+Infection Duration
+15 8.94167
+N Imported Infections
+15 1.84104
+Import Time
+15 21.9871
+Contact density decline
+15 3.93025
+Behavioral Risk Reduction
+15 0.909215
+Behavior Reaction Time
+15 44.4078
+Potential Isolation Effectiveness
+15 0.331262
+Isolation Reaction Time
+15 2.15699
+Public Health Capacity
+15 794074
+Public Health Capacity Sensitivity
+15 5.64525
+Hospital Capacity
+15 546810
+Hospital Capacity Sensitivity
+15 4.54984
+Treated Fatality Rate
+15 0.0821033
+Untreated Fatality Rate
+15 0.17067
+Payoff
+15 -6.25476e+21
+R0
+16 3.26372
+Incubation Time
+16 8.89144
+Infection Duration
+16 9.00222
+N Imported Infections
+16 9.84123
+Import Time
+16 13.968
+Contact density decline
+16 0.949594
+Behavioral Risk Reduction
+16 0.279015
+Behavior Reaction Time
+16 16.2075
+Potential Isolation Effectiveness
+16 0.449306
+Isolation Reaction Time
+16 5.42189
+Public Health Capacity
+16 9.11041e+06
+Public Health Capacity Sensitivity
+16 4.48857
+Hospital Capacity
+16 962071
+Hospital Capacity Sensitivity
+16 9.20748
+Treated Fatality Rate
+16 0.107228
+Untreated Fatality Rate
+16 0.155902
+Payoff
+16 -6.22115e+21
+R0
+17 2.62884
+Incubation Time
+17 12.5616
+Infection Duration
+17 9.18413
+N Imported Infections
+17 8.0066
+Import Time
+17 38.8926
+Contact density decline
+17 3.9535
+Behavioral Risk Reduction
+17 0.436301
+Behavior Reaction Time
+17 42.0935
+Potential Isolation Effectiveness
+17 0.940867
+Isolation Reaction Time
+17 8.2514
+Public Health Capacity
+17 2.57865e+06
+Public Health Capacity Sensitivity
+17 4.61565
+Hospital Capacity
+17 15271.4
+Hospital Capacity Sensitivity
+17 0.697521
+Treated Fatality Rate
+17 0.199295
+Untreated Fatality Rate
+17 0.161342
+Payoff
+17 -6.26257e+21
+R0
+18 3.0279
+Incubation Time
+18 7.49545
+Infection Duration
+18 5.69041
+N Imported Infections
+18 2.50182
+Import Time
+18 19.3751
+Contact density decline
+18 0.465784
+Behavioral Risk Reduction
+18 0.729827
+Behavior Reaction Time
+18 27.9145
+Potential Isolation Effectiveness
+18 0.213482
+Isolation Reaction Time
+18 6.39295
+Public Health Capacity
+18 7.53262e+06
+Public Health Capacity Sensitivity
+18 7.92746
+Hospital Capacity
+18 604125
+Hospital Capacity Sensitivity
+18 3.57053
+Treated Fatality Rate
+18 0.11281
+Untreated Fatality Rate
+18 0.130933
+Payoff
+18 -6.25046e+21
+R0
+19 2.98713
+Incubation Time
+19 9.07623
+Infection Duration
+19 8.01801
+N Imported Infections
+19 2.75276
+Import Time
+19 22.2788
+Contact density decline
+19 2.71185
+Behavioral Risk Reduction
+19 0.743204
+Behavior Reaction Time
+19 21.3233
+Potential Isolation Effectiveness
+19 0.731383
+Isolation Reaction Time
+19 4.08425
+Public Health Capacity
+19 740356
+Public Health Capacity Sensitivity
+19 7.19045
+Hospital Capacity
+19 939762
+Hospital Capacity Sensitivity
+19 4.49266
+Treated Fatality Rate
+19 0.169711
+Untreated Fatality Rate
+19 0.249581
+Payoff
+19 -6.26435e+21
+R0
+20 4.0343
+Incubation Time
+20 13.8965
+Infection Duration
+20 6.48967
+N Imported Infections
+20 5.16585
+Import Time
+20 18.0137
+Contact density decline
+20 2.73784
+Behavioral Risk Reduction
+20 0.837529
+Behavior Reaction Time
+20 23.982
+Potential Isolation Effectiveness
+20 0.595699
+Isolation Reaction Time
+20 9.92161
+Public Health Capacity
+20 2.83109e+06
+Public Health Capacity Sensitivity
+20 3.33665
+Hospital Capacity
+20 859343
+Hospital Capacity Sensitivity
+20 4.30969
+Treated Fatality Rate
+20 0.186594
+Untreated Fatality Rate
+20 0.183574
+Payoff
+20 -6.25737e+21
+R0
+21 4.24432
+Incubation Time
+21 14.8233
+Infection Duration
+21 4.15176
+N Imported Infections
+21 3.88557
+Import Time
+21 17.8936
+Contact density decline
+21 1.55483
+Behavioral Risk Reduction
+21 0.428746
+Behavior Reaction Time
+21 23.5451
+Potential Isolation Effectiveness
+21 0.371295
+Isolation Reaction Time
+21 1.07012
+Public Health Capacity
+21 2.7747e+06
+Public Health Capacity Sensitivity
+21 9.47561
+Hospital Capacity
+21 281935
+Hospital Capacity Sensitivity
+21 3.63507
+Treated Fatality Rate
+21 0.190777
+Untreated Fatality Rate
+21 0.0982808
+Payoff
+21 -6.19458e+21
+R0
+22 2.78221
+Incubation Time
+22 3.68262
+Infection Duration
+22 7.51072
+N Imported Infections
+22 1.28176
+Import Time
+22 34.2394
+Contact density decline
+22 1.39479
+Behavioral Risk Reduction
+22 0.24226
+Behavior Reaction Time
+22 18.2568
+Potential Isolation Effectiveness
+22 0.583636
+Isolation Reaction Time
+22 2.56855
+Public Health Capacity
+22 6.7385e+06
+Public Health Capacity Sensitivity
+22 1.52564
+Hospital Capacity
+22 378797
+Hospital Capacity Sensitivity
+22 7.40754
+Treated Fatality Rate
+22 0.196487
+Untreated Fatality Rate
+22 0.131346
+Payoff
+22 -6.264e+21
+R0
+23 3.67043
+Incubation Time
+23 3.1215
+Infection Duration
+23 9.13558
+N Imported Infections
+23 7.20111
+Import Time
+23 21.951
+Contact density decline
+23 2.84558
+Behavioral Risk Reduction
+23 0.0542124
+Behavior Reaction Time
+23 19.5633
+Potential Isolation Effectiveness
+23 0.752277
+Isolation Reaction Time
+23 5.15755
+Public Health Capacity
+23 4.05859e+06
+Public Health Capacity Sensitivity
+23 7.25769
+Hospital Capacity
+23 305390
+Hospital Capacity Sensitivity
+23 2.94591
+Treated Fatality Rate
+23 0.130461
+Untreated Fatality Rate
+23 0.246685
+Payoff
+23 -6.25368e+21
+R0
+24 4.96284
+Incubation Time
+24 5.15286
+Infection Duration
+24 5.29727
+N Imported Infections
+24 3.42642
+Import Time
+24 20.2848
+Contact density decline
+24 3.28242
+Behavioral Risk Reduction
+24 0.431447
+Behavior Reaction Time
+24 34.8969
+Potential Isolation Effectiveness
+24 0.166513
+Isolation Reaction Time
+24 1.83083
+Public Health Capacity
+24 2.63884e+06
+Public Health Capacity Sensitivity
+24 1.50285
+Hospital Capacity
+24 972405
+Hospital Capacity Sensitivity
+24 4.34727
+Treated Fatality Rate
+24 0.0961884
+Untreated Fatality Rate
+24 0.204683
+Payoff
+24 -2.33157e+24

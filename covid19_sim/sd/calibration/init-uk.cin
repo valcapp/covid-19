@@ -1,0 +1,17 @@
+Initial Population = 66575226
+R0 = 3
+Incubation Time = 5
+Infection Duration = 15
+Import Time = 29
+N Imported Infections = 1
+Behavior Reaction Time = 50
+Isolation Reaction Time = 5
+Fraction Requiring Hospitalization = 0.1
+Treated Fatality Rate = 0.01
+Untreated Fatality Rate = 0.1
+
+
+
+
+
+

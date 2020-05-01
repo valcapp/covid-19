@@ -1,0 +1,47 @@
+:OPTIMIZER=Powell
+:SENSITIVITY=Off
+:MULTIPLE_START=Random
+:RANDOM_NUMBER=Default
+:OUTPUT_LEVEL=On
+:TRACE=Off
+:MAX_ITERATIONS=1000
+:RESTART_MAX=0
+:PASS_LIMIT=2
+:FRACTIONAL_TOLERANCE=0.0003
+:TOLERANCE_MULTIPLIER=21
+:ABSOLUTE_TOLERANCE=1
+:SCALE_ABSOLUTE=1
+:VECTOR_POINTS=25
+:MCINITMETHOD=0
+:MCPAYOFFTYPE=0
+:MCRECORD=0
+:MCSCHEDULE=0
+:MCLIMIT=0
+:MCBURNIN=0
+:MCNCHAINS=2
+:MCOUTLIER=0.05
+:MCGAMMA=1
+:MCEPSILON=0.01
+:MCDELTA=0.0001
+:MCJUMP=0.05
+:MCUPDATEPAIRS=2
+:MCXOVER=0.2
+:MCTEMP=1
+:MCFTEMP=1
+:MCCOOLING=1000
+2.2<=R0<=5
+3<=Incubation Time<=15
+4<=Infection Duration<=15
+1<=N Imported Infections<=10
+10<=Import Time<=40
+0<=Contact density decline<=4
+0<=Behavioral Risk Reduction<=1
+10<=Behavior Reaction Time<=50
+0<=Potential Isolation Effectiveness<=1
+1<=Isolation Reaction Time<=10
+100000<=Public Health Capacity<=10000000
+0.5<=Public Health Capacity Sensitivity<=10
+10000<=Hospital Capacity<=1000000
+0.5<=Hospital Capacity Sensitivity<=10
+0.01<=Treated Fatality Rate<=0.2
+0.02<=Untreated Fatality Rate<=0.3

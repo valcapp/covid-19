@@ -15,6 +15,8 @@ _subscript_dict = {}
 _namespace = {
     'TIME': 'time',
     'Time': 'time',
+    'Active Infected': 'active_infected',
+    'Confirmed': 'confirmed',
     'Initial Population': 'initial_population',
     'Seasonal Period': 'seasonal_period',
     'Effect of Season': 'effect_of_season',
@@ -24,7 +26,6 @@ _namespace = {
     'Contact Density Decline': 'contact_density_decline',
     'Relative Contact Density': 'relative_contact_density',
     'Transmission Rate': 'transmission_rate',
-    'Active Infected': 'active_infected',
     'Potential Isolation Effectiveness': 'potential_isolation_effectiveness',
     'Isolation Effectiveness': 'isolation_effectiveness',
     'Hospital Strain': 'hospital_strain',
@@ -78,18 +79,46 @@ def time():
     return __data['time']()
 
 
+@cache('step')
+def active_infected():
+    """
+    Real Name: b'Active Infected'
+    Original Eqn: b'Infected*(1-Isolation Effectiveness)'
+    Units: b'people'
+    Limits: (None, None)
+    Type: component
+
+    b'Effective number of infected people, after adjusting for reduction in \\n    \\t\\tinfectiousness from isolation, quarantine, and monitoring.'
+    """
+    return infected() * (1 - isolation_effectiveness())
+
+
+@cache('step')
+def confirmed():
+    """
+    Real Name: b'Confirmed'
+    Original Eqn: b'Deaths+Exposed+Infected+Recovered'
+    Units: b'people'
+    Limits: (None, None)
+    Type: component
+
+    b''
+    """
+    return deaths() + exposed() + infected() + recovered()
+
+
 @cache('run')
 def initial_population():
     """
     Real Name: b'Initial Population'
-    Original Eqn: b'100000'
+    Original Eqn: b'6.65752e+07'
     Units: b'people'
     Limits: (1.0, 200000.0)
     Type: constant
 
     b''
     """
-    return 100000
+    return 6.65752e+07
 
 
 @cache('run')
@@ -206,20 +235,6 @@ def transmission_rate():
     ) * fraction_susceptible() * relative_contact_density()
 
 
-@cache('step')
-def active_infected():
-    """
-    Real Name: b'Active Infected'
-    Original Eqn: b'Infected*(1-Isolation Effectiveness)'
-    Units: b'people'
-    Limits: (None, None)
-    Type: component
-
-    b'Effective number of infected people, after adjusting for reduction in \\n    \\t\\tinfectiousness from isolation, quarantine, and monitoring.'
-    """
-    return infected() * (1 - isolation_effectiveness())
-
-
 @cache('run')
 def potential_isolation_effectiveness():
     """
@@ -296,14 +311,14 @@ def public_health_capacity_sensitivity():
 def public_health_capacity():
     """
     Real Name: b'Public Health Capacity'
-    Original Eqn: b'1000'
+    Original Eqn: b'1e+06'
     Units: b'people'
     Limits: (None, None)
     Type: constant
 
     b'Capacity of the public health system to monitor, quarantine, and trace \\n    \\t\\tcontacts. Expressed as number of infected people that can be managed.'
     """
-    return 1000
+    return 1e+06
 
 
 @cache('step')
@@ -382,14 +397,14 @@ def fraction_susceptible():
 def hospital_capacity():
     """
     Real Name: b'Hospital Capacity'
-    Original Eqn: b'100'
+    Original Eqn: b'200000'
     Units: b'people'
     Limits: (0.0, 1000.0)
     Type: constant
 
     b'Hospital capacity, expressed as number of serious infected cases that can \\n    \\t\\tbe handled given beds, staff, etc.'
     """
-    return 100
+    return 200000
 
 
 @cache('step')
@@ -494,14 +509,14 @@ def recovering():
 def untreated_fatality_rate():
     """
     Real Name: b'Untreated Fatality Rate'
-    Original Eqn: b'0.04'
+    Original Eqn: b'0.4'
     Units: b'fraction'
     Limits: (0.0, 0.1)
     Type: constant
 
     b'Fatality rate when minimally treated due to overwhelmed, chaotic health \\n    \\t\\tcare.'
     """
-    return 0.04
+    return 0.4
 
 
 @cache('step')
@@ -522,14 +537,14 @@ def infected():
 def treated_fatality_rate():
     """
     Real Name: b'Treated Fatality Rate'
-    Original Eqn: b'0.01'
+    Original Eqn: b'0.2'
     Units: b'fraction'
     Limits: (0.0, 0.1)
     Type: constant
 
     b'Fatality rate with good health care.'
     """
-    return 0.01
+    return 0.2
 
 
 @cache('step')
@@ -550,14 +565,14 @@ def advancing():
 def behavior_reaction_time():
     """
     Real Name: b'Behavior Reaction Time'
-    Original Eqn: b'20'
+    Original Eqn: b'50'
     Units: b'day'
     Limits: (1.0, 60.0)
     Type: constant
 
     b'Time from first infection for behavioral risk reductions to be fully \\n    \\t\\timplemented.'
     """
-    return 20
+    return 50
 
 
 @cache('run')
@@ -592,14 +607,14 @@ def incubation_time():
 def n_imported_infections():
     """
     Real Name: b'N Imported Infections'
-    Original Eqn: b'3'
+    Original Eqn: b'5'
     Units: b'people'
     Limits: (0.0, 100.0)
     Type: constant
 
     b'Number of infections initially imported into the region.'
     """
-    return 3
+    return 5
 
 
 @cache('run')
@@ -620,28 +635,28 @@ def infection_duration():
 def isolation_reaction_time():
     """
     Real Name: b'Isolation Reaction Time'
-    Original Eqn: b'2'
+    Original Eqn: b'5'
     Units: b'day'
     Limits: (1.0, 30.0)
     Type: constant
 
     b'Time from first infected person needed to ramp up public health measures.'
     """
-    return 2
+    return 5
 
 
 @cache('run')
 def r0():
     """
     Real Name: b'R0'
-    Original Eqn: b'3.3'
+    Original Eqn: b'2.4'
     Units: b'dmnl'
     Limits: (1.0, 4.0)
     Type: constant
 
     b'Base reproduction ratio for the disease. Plausible range reported for \\n    \\t\\tcoronavirus is about 2.2-3.9.'
     """
-    return 3.3
+    return 2.4
 
 
 @cache('step')
@@ -676,28 +691,28 @@ def initial_uncontrolled_transmission_rate():
 def import_time():
     """
     Real Name: b'Import Time'
-    Original Eqn: b'10'
+    Original Eqn: b'20'
     Units: b'day'
     Limits: (1.0, 100.0)
     Type: constant
 
     b'Time of first infection.'
     """
-    return 10
+    return 20
 
 
 @cache('run')
 def final_time():
     """
     Real Name: b'FINAL TIME'
-    Original Eqn: b'300'
+    Original Eqn: b'365'
     Units: b'day'
     Limits: (None, None)
     Type: constant
 
     b'The final time for the simulation.'
     """
-    return 300
+    return 365
 
 
 @cache('run')
