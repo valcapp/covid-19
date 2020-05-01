@@ -38,7 +38,6 @@ def sd_run(form):
         d0 = datetime.date(2020, 1, 1)
         today = datetime.date.today()
         selected_time = int((today - d0).days)
-        print(selected_time)
 
     return {
             'params':params,
